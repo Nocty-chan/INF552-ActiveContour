@@ -1,0 +1,3439 @@
+480, 512
+Gradient computing done, please define polygon.
+Adding point: (160, 68)
+Adding point: (280, 123)
+Drawing polygon with 2
+Adding point: (310, 309)
+Drawing polygon with 3
+Adding point: (221, 365)
+Drawing polygon with 4
+Adding point: (161, 365)
+Drawing polygon with 5
+Adding point: (143, 333)
+Drawing polygon with 6
+Adding point: (103, 320)
+Drawing polygon with 7
+Adding point: (102, 250)
+Drawing polygon with 8
+Adding point: (15, 159)
+Drawing polygon with 9
+Polygon definition is over
+Point size: 184
+0: avant 160, 68
+gradient en x0.277778
+gradient en y 0.190476
+scalaire: -0.190476
+0: 160, 85.5238
+1: avant 164, 70
+gradient en x0.126984
+gradient en y -0.238095
+scalaire: 0.269748
+1: 170.198, 57.6032
+2: avant 169, 72
+gradient en x0.132353
+gradient en y -0.177778
+scalaire: 0.218199
+2: 173.712, 62.5752
+3: avant 173, 74
+gradient en x0.051948
+gradient en y 0
+scalaire: 0.0232319
+3: 173.742, 72.5166
+4: avant 178, 76
+gradient en x0
+gradient en y 0.051948
+scalaire: -0.0464637
+4: 176.87, 78.2597
+5: avant 182, 78
+gradient en x-0.282353
+gradient en y -0.111111
+scalaire: -0.0268913
+5: 181.621, 78.7582
+6: avant 187, 80
+gradient en x-0.0793651
+gradient en y -0.0277778
+scalaire: -0.0106479
+6: 186.608, 80.7839
+7: avant 191, 82
+gradient en x0.0343137
+gradient en y -0.153257
+scalaire: 0.152423
+7: 194.562, 74.8758
+8: avant 196, 84
+gradient en x-0.398466
+gradient en y -0.0229469
+scalaire: -0.157675
+8: 192.467, 91.0665
+9: avant 200, 86
+gradient en x-0.00461848
+gradient en y 0
+scalaire: -0.00206545
+9: 199.957, 86.0851
+10: avant 205, 88
+gradient en x0.00940171
+gradient en y 0.00430576
+scalaire: 0.000353386
+10: 205.002, 87.9952
+11: avant 209, 90
+gradient en x-0.00334497
+gradient en y 0.000187097
+scalaire: -0.00166326
+11: 208.968, 90.0647
+12: avant 214, 92
+gradient en x0.0161701
+gradient en y 0.0169164
+scalaire: -0.00970101
+12: 213.81, 92.4742
+13: avant 219, 95
+gradient en x-0.0475342
+gradient en y -0.325671
+scalaire: 0.270031
+13: 225.062, 82.8768
+14: avant 223, 97
+gradient en x0.193237
+gradient en y -0.0227273
+scalaire: 0.106746
+14: 225.448, 92.105
+15: avant 228, 99
+gradient en x-0.105066
+gradient en y -0.0873016
+scalaire: 0.0310981
+15: 228.629, 97.7426
+16: avant 232, 101
+gradient en x0
+gradient en y -0.00578569
+scalaire: 0.00517487
+16: 232.121, 100.758
+17: avant 237, 103
+gradient en x-0.000429369
+gradient en y -0.114222
+scalaire: 0.101972
+17: 239.272, 98.4558
+18: avant 241, 105
+gradient en x0.0115706
+gradient en y 0.0327483
+scalaire: -0.0241165
+18: 240.479, 106.041
+19: avant 246, 107
+gradient en x-0.316239
+gradient en y 0.0222222
+scalaire: -0.161303
+19: 242.171, 114.658
+20: avant 250, 109
+gradient en x0.0833333
+gradient en y -0.0118319
+scalaire: 0.0478506
+20: 251.093, 106.814
+21: avant 255, 111
+gradient en x-0.0252838
+gradient en y 0.0803271
+scalaire: -0.083154
+21: 253.072, 114.857
+22: avant 259, 113
+gradient en x0.011396
+gradient en y 0.354545
+scalaire: -0.312019
+22: 252.19, 126.621
+23: avant 264, 115
+gradient en x-0.0410256
+gradient en y 0.120385
+scalaire: -0.127011
+23: 261.641, 120.896
+24: avant 269, 117
+gradient en x0.00805153
+gradient en y -0.0945758
+scalaire: 0.088192
+24: 270.672, 113.656
+25: avant 273, 120
+gradient en x-0.00821413
+gradient en y 0.00741038
+scalaire: -0.0105805
+25: 272.734, 120.443
+26: avant 280, 123
+gradient en x0.388506
+gradient en y 0.208799
+scalaire: 0.127072
+26: 284.248, 118.752
+27: avant 280, 127
+gradient en x-0.00945164
+gradient en y -0.0177305
+scalaire: -0.00945164
+27: 279.547, 127
+28: avant 281, 132
+gradient en x-0.000819173
+gradient en y -0.00270494
+scalaire: -0.000272783
+28: 280.987, 132.003
+29: avant 282, 137
+gradient en x-0.000362132
+gradient en y -0.00104558
+scalaire: -0.000150045
+29: 281.993, 137.001
+30: avant 283, 142
+gradient en x-0.00112659
+gradient en y -0.00676193
+scalaire: -0.00112659
+30: 282.941, 142
+31: avant 283, 147
+gradient en x-0.00475756
+gradient en y 7.17787e-05
+scalaire: -0.00475756
+31: 282.771, 147
+32: avant 284, 152
+gradient en x-0.0391652
+gradient en y 0.0270568
+scalaire: -0.043711
+32: 281.857, 152.429
+33: avant 285, 157
+gradient en x0.134615
+gradient en y -0.0262726
+scalaire: 0.137154
+33: 291.725, 155.655
+34: avant 286, 162
+gradient en x-0.00246159
+gradient en y 0.00681606
+scalaire: -0.00375053
+34: 285.816, 162.037
+35: avant 287, 167
+gradient en x0.153595
+gradient en y 0.0362536
+scalaire: 0.153595
+35: 293.791, 167
+36: avant 287, 172
+gradient en x0.0635071
+gradient en y 0.0343112
+scalaire: 0.0635071
+36: 290.237, 172
+37: avant 288, 177
+gradient en x0.0555556
+gradient en y -0.155556
+scalaire: 0.0849837
+37: 292.167, 176.167
+38: avant 289, 182
+gradient en x0.020185
+gradient en y 0.084127
+scalaire: 0.0032944
+38: 289.162, 181.968
+39: avant 290, 187
+gradient en x0.00322784
+gradient en y 0.0262973
+scalaire: -0.00199217
+39: 289.902, 187.02
+40: avant 291, 192
+gradient en x0.00185499
+gradient en y -0.00791971
+scalaire: 0.00185499
+40: 291.079, 192
+41: avant 291, 197
+gradient en x-0.0065136
+gradient en y -0.042517
+scalaire: -0.0065136
+41: 290.815, 197
+42: avant 292, 201
+gradient en x-0.03998
+gradient en y 0.121212
+scalaire: -0.0681846
+42: 288.667, 201.833
+43: avant 293, 206
+gradient en x0.0262607
+gradient en y 0.00464494
+scalaire: 0.0248398
+43: 294.218, 205.756
+44: avant 294, 211
+gradient en x0.01341
+gradient en y 0.0737327
+scalaire: -0.00131063
+44: 293.936, 211.013
+45: avant 295, 216
+gradient en x-0.00166364
+gradient en y -0.11089
+scalaire: -0.00166364
+45: 294.89, 216
+46: avant 295, 221
+gradient en x-0.022409
+gradient en y 0
+scalaire: -0.022409
+46: 294.061, 221
+47: avant 296, 226
+gradient en x0.00993789
+gradient en y 0.233333
+scalaire: -0.0360155
+47: 294.234, 226.353
+48: avant 297, 231
+gradient en x-0.00347469
+gradient en y 0.00888415
+scalaire: -0.00514954
+48: 296.748, 231.05
+49: avant 298, 236
+gradient en x0.0195479
+gradient en y 0.0559441
+scalaire: 0.00819679
+49: 298.402, 235.92
+50: avant 299, 241
+gradient en x-0.0124458
+gradient en y 0.0213796
+scalaire: -0.0124458
+50: 298.351, 241
+51: avant 299, 246
+gradient en x0.00936508
+gradient en y -0.0035359
+scalaire: 0.00936508
+51: 299.5, 246
+52: avant 300, 251
+gradient en x0.00384604
+gradient en y -0.00449377
+scalaire: 0.00465265
+52: 300.228, 250.954
+53: avant 301, 256
+gradient en x0.0386305
+gradient en y 0.000405448
+scalaire: 0.0378008
+53: 302.853, 255.629
+54: avant 302, 261
+gradient en x0.0267484
+gradient en y 0.0654005
+scalaire: 0.0134029
+54: 302.657, 260.869
+55: avant 303, 266
+gradient en x-0.00197736
+gradient en y -0.00540509
+scalaire: -0.00197736
+55: 302.89, 266
+56: avant 303, 271
+gradient en x0.0846561
+gradient en y 0.00894914
+scalaire: 0.0846561
+56: 307.319, 271
+57: avant 304, 276
+gradient en x-0.00446846
+gradient en y -0.0103419
+scalaire: -0.00182677
+57: 303.979, 276.005
+58: avant 305, 280
+gradient en x0.0234974
+gradient en y 0.0404203
+scalaire: 0.0129925
+58: 305.623, 279.844
+59: avant 306, 285
+gradient en x0.181406
+gradient en y -0.169591
+scalaire: 0.211143
+59: 316.352, 282.93
+60: avant 307, 290
+gradient en x0.115079
+gradient en y -0.129699
+scalaire: 0.115079
+60: 312.421, 290
+61: avant 307, 295
+gradient en x-0.00850254
+gradient en y -0.139273
+scalaire: -0.00850254
+61: 306.642, 295
+62: avant 308, 300
+gradient en x0.00993266
+gradient en y 0.0391652
+scalaire: 0.00429403
+62: 308.22, 299.969
+63: avant 310, 309
+gradient en x0.0822511
+gradient en y 0.126984
+scalaire: 0.105557
+63: 312.351, 309.47
+64: avant 305, 311
+gradient en x0
+gradient en y -0.0940767
+scalaire: -0.0841447
+64: 303.241, 307.482
+65: avant 301, 314
+gradient en x-0.1
+gradient en y 0.166667
+scalaire: 0.10435
+65: 302.667, 317.333
+66: avant 297, 316
+gradient en x0.15
+gradient en y 0.166667
+scalaire: 0.216153
+66: 302.333, 326.667
+67: avant 293, 319
+gradient en x-0.266667
+gradient en y 0.0490196
+scalaire: -0.120784
+67: 289.171, 313.894
+68: avant 288, 322
+gradient en x0.103846
+gradient en y 0.0277778
+scalaire: 0.0712866
+68: 289.511, 325.021
+69: avant 284, 324
+gradient en x0.0319285
+gradient en y -0.134409
+scalaire: -0.10594
+69: 281.701, 319.403
+70: avant 280, 327
+gradient en x-0.0027481
+gradient en y -0.000309811
+scalaire: -0.00189671
+70: 279.943, 326.924
+71: avant 276, 330
+gradient en x0.063471
+gradient en y 0.0333333
+scalaire: 0.0581993
+71: 276.948, 331.897
+72: avant 271, 332
+gradient en x0.433333
+gradient en y 0.0833333
+scalaire: 0.268328
+72: 277.75, 345.5
+73: avant 267, 335
+gradient en x0.0977012
+gradient en y -0.0047619
+scalaire: 0.0548112
+73: 268.644, 337.192
+74: avant 263, 338
+gradient en x0.111111
+gradient en y 0.0252101
+scalaire: 0.072239
+74: 264.171, 340.342
+75: avant 259, 340
+gradient en x0.177778
+gradient en y -0.15
+scalaire: -0.0546594
+75: 258.178, 338.356
+76: avant 254, 343
+gradient en x-0.0476191
+gradient en y -0.0197897
+scalaire: -0.0444032
+76: 252.712, 341.283
+77: avant 250, 346
+gradient en x0.0128205
+gradient en y 0.0252101
+scalaire: 0.0282821
+77: 250.397, 346.794
+78: avant 246, 348
+gradient en x-0.00230415
+gradient en y 0.0199362
+scalaire: 0.016801
+78: 246.423, 348.847
+79: avant 242, 351
+gradient en x-0.00847308
+gradient en y 0.0961417
+scalaire: 0.0718295
+79: 244.155, 353.873
+80: avant 238, 354
+gradient en x0.0737327
+gradient en y -0.00301148
+scalaire: 0.0302807
+80: 238.59, 355.18
+81: avant 233, 356
+gradient en x-0.0277778
+gradient en y 0.00292397
+scalaire: -0.00980732
+81: 232.939, 355.877
+82: avant 229, 359
+gradient en x-0.0183444
+gradient en y 0.0678295
+scalaire: 0.0432569
+82: 230.298, 360.73
+83: avant 225, 362
+gradient en x-0.0283034
+gradient en y 0.000578503
+scalaire: -0.0165192
+83: 224.504, 361.339
+84: avant 221, 365
+gradient en x-0.0394737
+gradient en y 0.073764
+scalaire: 0.0645901
+84: 221.584, 367.918
+85: avant 215, 365
+gradient en x0.0863492
+gradient en y -0.0062724
+scalaire: -0.0062724
+85: 215, 364.686
+86: avant 211, 365
+gradient en x-0.107143
+gradient en y 0.00610221
+scalaire: 0.00610221
+86: 211, 365.305
+87: avant 206, 365
+gradient en x0.0558076
+gradient en y -0.0677419
+scalaire: -0.0677419
+87: 206, 361.613
+88: avant 201, 365
+gradient en x-0.314103
+gradient en y -0.0299507
+scalaire: -0.0299507
+88: 201, 363.502
+89: avant 196, 365
+gradient en x0.13059
+gradient en y -0.0117434
+scalaire: -0.0117434
+89: 196, 364.413
+90: avant 191, 365
+gradient en x-0.0219436
+gradient en y -0.0275039
+scalaire: -0.0275039
+90: 191, 363.625
+91: avant 186, 365
+gradient en x0.0111736
+gradient en y 0.00162016
+scalaire: 0.00162016
+91: 186, 365.081
+92: avant 181, 365
+gradient en x0.205556
+gradient en y 0.0281492
+scalaire: 0.0281492
+92: 181, 366.407
+93: avant 176, 365
+gradient en x-0.00745551
+gradient en y 0.0065136
+scalaire: 0.0065136
+93: 176, 365.326
+94: avant 171, 365
+gradient en x0.0338778
+gradient en y -0.296296
+scalaire: -0.296296
+94: 171, 350.185
+95: avant 166, 365
+gradient en x0.0357086
+gradient en y 0.0222915
+scalaire: 0.0222915
+95: 166, 366.115
+96: avant 161, 365
+gradient en x-0.0522989
+gradient en y -0.0161616
+scalaire: 0.00893337
+96: 162.212, 362.576
+97: avant 158, 360
+gradient en x-0.110599
+gradient en y -0.0296296
+scalaire: 0.0856721
+97: 154.266, 361.867
+98: avant 156, 356
+gradient en x0.409091
+gradient en y -0.0252101
+scalaire: -0.377176
+98: 172.068, 347.966
+99: avant 153, 351
+gradient en x-0.176768
+gradient en y -0.0982906
+scalaire: 0.114149
+99: 148.395, 353.302
+100: avant 151, 347
+gradient en x-0.113445
+gradient en y 0.00626781
+scalaire: 0.104272
+100: 146.233, 349.384
+101: avant 148, 343
+gradient en x0.0711382
+gradient en y 0.0260787
+scalaire: -0.0519652
+101: 150.393, 341.803
+102: avant 146, 338
+gradient en x-0.118132
+gradient en y -0.00606061
+scalaire: 0.107432
+102: 140.808, 340.077
+103: avant 143, 333
+gradient en x0.0426065
+gradient en y 0.0378788
+scalaire: 0.00473912
+103: 142.532, 333.624
+104: avant 138, 331
+gradient en x-0.153257
+gradient en y -0.0882353
+scalaire: -0.0250063
+104: 138.464, 329.839
+105: avant 133, 329
+gradient en x0.117886
+gradient en y -0.0148957
+scalaire: -0.0377259
+105: 133, 328.999
+106: avant 128, 328
+gradient en x-0.00345622
+gradient en y 0.0431373
+scalaire: 0.0429774
+106: 127.6, 330
+107: avant 123, 326
+gradient en x-0.0178862
+gradient en y -0.333333
+scalaire: -0.319043
+107: 126.797, 310.811
+108: avant 119, 325
+gradient en x-0.104575
+gradient en y 0
+scalaire: 0.0253632
+108: 118.923, 325.308
+109: avant 114, 323
+gradient en x0.0545455
+gradient en y 0.0545455
+scalaire: 0.042789
+109: 113.531, 325.344
+110: avant 109, 322
+gradient en x-0.020185
+gradient en y -0.0378788
+scalaire: -0.0331846
+110: 109.347, 320.263
+111: avant 103, 320
+gradient en x-0.057041
+gradient en y -0.00443931
+scalaire: 0.037195
+111: 106.623, 316.377
+112: avant 102, 315
+gradient en x-0.000544663
+gradient en y -0.126984
+scalaire: 0.000544663
+112: 102.013, 315
+113: avant 102, 310
+gradient en x-0.135897
+gradient en y -0.0179965
+scalaire: 0.135897
+113: 95.2051, 310
+114: avant 102, 305
+gradient en x-0.0185391
+gradient en y -0.0166801
+scalaire: 0.0185391
+114: 101.073, 305
+115: avant 102, 300
+gradient en x-0.00688172
+gradient en y -0.0122279
+scalaire: 0.00688172
+115: 101.656, 300
+116: avant 102, 295
+gradient en x-0.282353
+gradient en y 0.0222915
+scalaire: 0.282353
+116: 87.8824, 295
+117: avant 102, 290
+gradient en x-0.21662
+gradient en y -0.0608354
+scalaire: 0.21662
+117: 91.169, 290
+118: avant 102, 285
+gradient en x-0.00169312
+gradient en y -0.00539076
+scalaire: 0.00169312
+118: 101.915, 285
+119: avant 102, 280
+gradient en x0.00527009
+gradient en y 0.0563326
+scalaire: -0.00527009
+119: 102.264, 280
+120: avant 102, 275
+gradient en x-0.00584021
+gradient en y -0.000900109
+scalaire: 0.00584021
+120: 101.708, 275
+121: avant 102, 270
+gradient en x0.00345066
+gradient en y -0.00512145
+scalaire: -0.00345066
+121: 102.173, 270
+122: avant 102, 265
+gradient en x0.393266
+gradient en y 0.0885041
+scalaire: -0.393266
+122: 121.663, 265
+123: avant 102, 260
+gradient en x-0.0216728
+gradient en y -0.00255501
+scalaire: 0.0216728
+123: 100.916, 260
+124: avant 102, 255
+gradient en x0.215686
+gradient en y -0.0378788
+scalaire: -0.215686
+124: 112.784, 255
+125: avant 102, 250
+gradient en x-0.0175605
+gradient en y -0.0325815
+scalaire: 0.00113573
+125: 101.84, 250.08
+126: avant 98, 246
+gradient en x5.42952e-05
+gradient en y -0.0229113
+scalaire: -0.0137902
+126: 98.5527, 245.585
+127: avant 95, 242
+gradient en x-0.0613898
+gradient en y 0.0392088
+scalaire: 0.0711339
+127: 92.2325, 244.767
+128: avant 91, 239
+gradient en x0.00805153
+gradient en y 0.00420168
+scalaire: -0.00272225
+128: 91.2021, 238.798
+129: avant 88, 235
+gradient en x0.0977012
+gradient en y 0.042517
+scalaire: -0.0526507
+129: 89.8927, 233.58
+130: avant 84, 231
+gradient en x0.15
+gradient en y 0.0555556
+scalaire: -0.0667823
+130: 86.3611, 228.639
+131: avant 81, 228
+gradient en x-0.0619236
+gradient en y 0.257143
+scalaire: 0.225614
+131: 73.0233, 235.977
+132: avant 77, 224
+gradient en x0.000276709
+gradient en y -0.0183458
+scalaire: -0.0131681
+132: 77.4656, 223.534
+133: avant 74, 221
+gradient en x-0.0274669
+gradient en y -0.00271837
+scalaire: 0.0174999
+133: 73.3813, 221.619
+134: avant 70, 217
+gradient en x0.327254
+gradient en y 0.0131517
+scalaire: -0.253912
+134: 80.1745, 209.369
+135: avant 67, 213
+gradient en x-0.00604227
+gradient en y -0.0431208
+scalaire: -0.0262185
+135: 67.8708, 212.129
+136: avant 63, 210
+gradient en x-0.0259744
+gradient en y -0.0149206
+scalaire: 0.00781616
+136: 62.8118, 210.188
+137: avant 60, 206
+gradient en x-0.1
+gradient en y 0.357143
+scalaire: 0.323249
+137: 48.2446, 217.755
+138: avant 57, 203
+gradient en x0.00841996
+gradient en y 0.00697093
+scalaire: -0.00102462
+138: 57.0362, 202.964
+139: avant 53, 199
+gradient en x-0.00286848
+gradient en y 0.0280668
+scalaire: 0.0191349
+139: 52.2379, 199.572
+140: avant 50, 195
+gradient en x-0.0222978
+gradient en y -0.0124366
+scalaire: 0.00697293
+140: 49.4825, 195.518
+141: avant 46, 192
+gradient en x0.00418265
+gradient en y 0.244751
+scalaire: 0.170107
+141: 40.0141, 197.986
+142: avant 43, 188
+gradient en x-0.242424
+gradient en y 0.0344086
+scalaire: 0.214585
+142: 34.0509, 194.712
+143: avant 39, 184
+gradient en x-0.137317
+gradient en y 0.00131313
+scalaire: 0.0980265
+143: 35.5342, 187.466
+144: avant 36, 181
+gradient en x0.0134052
+gradient en y 0.00423494
+scalaire: -0.00648438
+144: 36.2293, 180.771
+145: avant 32, 177
+gradient en x0.0246279
+gradient en y 0.00118824
+scalaire: -0.0165743
+145: 32.586, 176.414
+146: avant 29, 174
+gradient en x0.0246844
+gradient en y 0.0371733
+scalaire: 0.00883099
+146: 28.6878, 174.312
+147: avant 25, 170
+gradient en x-0.214912
+gradient en y -0.130952
+scalaire: 0.0933584
+147: 21.4004, 172.7
+148: avant 22, 166
+gradient en x0
+gradient en y -0.0666667
+scalaire: -0.0471404
+148: 22.7407, 165.259
+149: avant 19, 163
+gradient en x0.0666667
+gradient en y 0.111111
+scalaire: 0.031427
+149: 17.8889, 164.111
+150: avant 15, 159
+gradient en x0.0738916
+gradient en y 0.246154
+scalaire: -0.0738916
+150: 27.1602, 159
+151: avant 19, 156
+gradient en x0.0277778
+gradient en y 0.166667
+scalaire: -0.15
+151: 23.5, 162
+152: avant 23, 153
+gradient en x0.177778
+gradient en y 0
+scalaire: -0.0795046
+152: 25.2778, 157.556
+153: avant 27, 151
+gradient en x0
+gradient en y -0.257143
+scalaire: 0.229996
+153: 21.0571, 139.114
+154: avant 31, 148
+gradient en x0.0666667
+gradient en y 0.111111
+scalaire: -0.128889
+154: 35.4427, 153.924
+155: avant 36, 145
+gradient en x0.190476
+gradient en y -0.177778
+scalaire: 0.0738257
+155: 34.5992, 142.198
+156: avant 40, 143
+gradient en x0.246154
+gradient en y -0.0238095
+scalaire: -0.0887875
+156: 41.7501, 146.5
+157: avant 44, 140
+gradient en x-0.0428571
+gradient en y -0.0961538
+scalaire: 0.102637
+157: 40.9209, 135.895
+158: avant 48, 137
+gradient en x-0.177778
+gradient en y -0.166667
+scalaire: 0.228576
+158: 43.5556, 128.111
+159: avant 53, 135
+gradient en x0
+gradient en y 0
+scalaire: -0
+159: 51.8, 132.6
+160: avant 57, 132
+gradient en x-0.00138945
+gradient en y -0.0290022
+scalaire: 0.0240354
+160: 56.2789, 131.039
+161: avant 61, 129
+gradient en x-0.194444
+gradient en y 0.206718
+scalaire: -0.0979363
+161: 63.4976, 133.995
+162: avant 65, 127
+gradient en x0.25
+gradient en y 0.25
+scalaire: -0.33541
+162: 72.1, 141.2
+163: avant 70, 124
+gradient en x0.142977
+gradient en y -0.0760073
+scalaire: -0.0249801
+163: 70.703, 124.937
+164: avant 74, 121
+gradient en x-0.0789281
+gradient en y 0.145716
+scalaire: -0.0950347
+164: 76.1676, 125.335
+165: avant 78, 119
+gradient en x-0.196248
+gradient en y 0.471014
+scalaire: -0.333523
+165: 85.3525, 133.705
+166: avant 82, 116
+gradient en x0.0738916
+gradient en y -0.0591837
+scalaire: 0.00301196
+166: 81.9096, 115.88
+167: avant 86, 113
+gradient en x0.0413753
+gradient en y 0.0676471
+scalaire: -0.079009
+167: 87.8365, 116.673
+168: avant 91, 111
+gradient en x-0.0038511
+gradient en y 0.08061
+scalaire: -0.0703775
+168: 92.0737, 113.147
+169: avant 95, 108
+gradient en x-0.0236461
+gradient en y -0.316667
+scalaire: 0.267521
+169: 86.9744, 97.2992
+170: avant 99, 105
+gradient en x4.2554e-05
+gradient en y -0.00573939
+scalaire: 0.00511444
+170: 98.8961, 104.792
+171: avant 103, 103
+gradient en x-0.0738916
+gradient en y 0.310078
+scalaire: -0.244296
+171: 108.24, 113.481
+172: avant 108, 100
+gradient en x0.190476
+gradient en y -0.0833333
+scalaire: -0.0476191
+172: 108.709, 100.945
+173: avant 112, 97
+gradient en x0.357143
+gradient en y -0.159091
+scalaire: -0.0174239
+173: 112.834, 98.6681
+174: avant 116, 95
+gradient en x-0.257143
+gradient en y -0.177778
+scalaire: 0.274007
+174: 109.429, 81.8571
+175: avant 120, 92
+gradient en x0.404762
+gradient en y -0.131313
+scalaire: -0.137807
+175: 124.34, 97.7866
+176: avant 125, 89
+gradient en x0.114035
+gradient en y -0.0757576
+scalaire: 0.0167616
+176: 124.743, 88.4857
+177: avant 129, 87
+gradient en x-0.257143
+gradient en y -0.0128205
+scalaire: 0.126465
+177: 125.728, 80.4554
+178: avant 133, 84
+gradient en x-0.104575
+gradient en y 0.169591
+scalaire: -0.0729274
+178: 135.188, 86.9171
+179: avant 137, 81
+gradient en x0
+gradient en y 0.0902256
+scalaire: -0.0807002
+179: 140.005, 87.009
+180: avant 142, 79
+gradient en x0.0833333
+gradient en y -0.0490196
+scalaire: 0.00657668
+180: 141.186, 77.3725
+181: avant 146, 76
+gradient en x0.277778
+gradient en y 0.238095
+scalaire: -0.357143
+181: 156.714, 90.2857
+182: avant 150, 73
+gradient en x0.0666667
+gradient en y 0
+scalaire: -0.0298142
+182: 151.467, 75.9333
+183: avant 154, 71
+gradient en x0.111111
+gradient en y -0.104575
+scalaire: 0.05583
+183: 152.935, 68.3382
+Over
+New polygon with 184 points.
+Drawing polygon with 184
+Point size: 184
+0: avant 160, 85.5238
+gradient en x0.111111
+gradient en y -0.177778
+scalaire: 0.0918665
+0: 150.138, 69.7447
+1: avant 170.198, 57.6032
+gradient en x0.132353
+gradient en y -0.277778
+scalaire: 0.037471
+1: 170.013, 57.4854
+2: avant 173.712, 62.5752
+gradient en x-0.166667
+gradient en y 0.155556
+scalaire: -0.202988
+2: 162.601, 65.7499
+3: avant 173.742, 72.5166
+gradient en x0.0454546
+gradient en y -0.0285714
+scalaire: 0.0490383
+3: 176.61, 72.1068
+4: avant 176.87, 78.2597
+gradient en x-0.0833333
+gradient en y -0.0793651
+scalaire: 0.0134921
+4: 178.783, 75.7086
+5: avant 181.621, 78.7582
+gradient en x-0.215686
+gradient en y -0.177778
+scalaire: 0.132026
+5: 182.669, 73.5178
+6: avant 186.608, 80.7839
+gradient en x-0.0666667
+gradient en y -0.246154
+scalaire: 0.254604
+6: 181.27, 64.7695
+7: avant 194.562, 74.8758
+gradient en x-0.0666667
+gradient en y -0.177778
+scalaire: 0.00412657
+7: 175.134, 82.6469
+8: avant 192.467, 91.0665
+gradient en x0.0117616
+gradient en y -0.00169465
+scalaire: 0.0115497
+8: 193.272, 90.7443
+9: avant 199.957, 86.0851
+gradient en x-0.00159587
+gradient en y -0.0113022
+scalaire: 0.0114108
+9: 199.874, 85.5846
+10: avant 205.002, 87.9952
+gradient en x-0.00783883
+gradient en y -0.00233623
+scalaire: -0.00141604
+10: 204.963, 88.0739
+11: avant 208.968, 90.0647
+gradient en x-0.0234488
+gradient en y -0.00103419
+scalaire: -0.00956161
+11: 208.759, 90.4825
+12: avant 213.81, 92.4742
+gradient en x-0.00210084
+gradient en y -3.23877e-05
+scalaire: 0.00076798
+12: 213.775, 92.3799
+13: avant 225.062, 82.8768
+gradient en x-0.00637916
+gradient en y 0.0197897
+scalaire: -0.0197897
+13: 225.062, 91.0663
+14: avant 225.448, 92.105
+gradient en x0.0974026
+gradient en y -0.0555556
+scalaire: 0.108917
+14: 231.13, 90.4815
+15: avant 228.629, 97.7426
+gradient en x0.0871795
+gradient en y 0.0825593
+scalaire: 0.020208
+15: 229.929, 96.7671
+16: avant 232.121, 100.758
+gradient en x-0.0613047
+gradient en y -0.0419545
+scalaire: 0.0419545
+16: 232.121, 98.338
+17: avant 239.272, 98.4558
+gradient en x-0.0060401
+gradient en y -0.0025296
+scalaire: -0.000438674
+17: 239.18, 98.6401
+18: avant 240.479, 106.041
+gradient en x0.00588203
+gradient en y -0.0225564
+scalaire: 0.00863439
+18: 240.95, 105.983
+19: avant 242.171, 114.658
+gradient en x-0.00682966
+gradient en y -0.00595845
+scalaire: 0.00595845
+19: 242.171, 114.082
+20: avant 251.093, 106.814
+gradient en x-0.0136752
+gradient en y -0.0890653
+scalaire: 0.0890653
+20: 251.093, 103.316
+21: avant 253.072, 114.857
+gradient en x0.0355113
+gradient en y -0.00512145
+scalaire: 0.0355113
+21: 254.76, 114.857
+22: avant 252.19, 126.621
+gradient en x-0.0242874
+gradient en y 0.0356226
+scalaire: -0.0430705
+22: 255.098, 122.743
+23: avant 261.641, 120.896
+gradient en x0.001573
+gradient en y -0.00700115
+scalaire: 0.00495277
+23: 261.501, 120.685
+24: avant 270.672, 113.656
+gradient en x-0.023511
+gradient en y 0.257143
+scalaire: -0.257143
+24: 270.672, 147.313
+25: avant 272.734, 120.443
+gradient en x9.90321e-05
+gradient en y -0.0062953
+scalaire: 0.00600357
+25: 272.863, 120.057
+26: avant 284.248, 118.752
+gradient en x0.0108037
+gradient en y -0.0160401
+scalaire: 0.0189814
+26: 284.214, 118.786
+27: avant 279.547, 127
+gradient en x-0.0101372
+gradient en y -0.015868
+scalaire: -0.0126079
+27: 279.207, 126.943
+28: avant 280.987, 132.003
+gradient en x-0.00234465
+gradient en y -0.00875564
+scalaire: -0.000581991
+28: 280.958, 132.008
+29: avant 281.993, 137.001
+gradient en x-0.00442948
+gradient en y 0.0249614
+scalaire: -0.00923878
+29: 281.54, 137.092
+30: avant 282.941, 142
+gradient en x-0.000778087
+gradient en y -0.000874572
+scalaire: -0.000778087
+30: 282.872, 142
+31: avant 282.771, 147
+gradient en x-0.000174913
+gradient en y -0.000319432
+scalaire: -0.000174913
+31: 282.758, 147
+32: avant 281.857, 152.429
+gradient en x-0.000977205
+gradient en y -0.0153984
+scalaire: 0.0101974
+32: 282.234, 152.051
+33: avant 291.725, 155.655
+gradient en x-0.00125673
+gradient en y -0.00314094
+scalaire: -3.23878e-07
+33: 291.653, 155.684
+34: avant 285.816, 162.037
+gradient en x-0.000989686
+gradient en y 0.014464
+scalaire: -0.0038071
+34: 285.713, 162.057
+35: avant 293.791, 167
+gradient en x0.15
+gradient en y 0.0111111
+scalaire: 0.135145
+35: 291.147, 168.058
+36: avant 290.237, 172
+gradient en x0.233333
+gradient en y 0.0683761
+scalaire: 0.24295
+36: 309.096, 176.715
+37: avant 292.167, 176.167
+gradient en x-0.0476889
+gradient en y -0.146865
+scalaire: -0.0476889
+37: 288.893, 176.167
+38: avant 289.162, 181.968
+gradient en x-0.0345529
+gradient en y 0.0311943
+scalaire: -0.0277642
+38: 288.486, 181.833
+39: avant 289.902, 187.02
+gradient en x0.000400409
+gradient en y -0.000377066
+scalaire: 0.000466582
+39: 289.925, 187.015
+40: avant 291.079, 192
+gradient en x0.00185499
+gradient en y -0.00791971
+scalaire: 0.00185499
+40: 291.158, 192
+41: avant 290.815, 197
+gradient en x-0.00817204
+gradient en y -0.227528
+scalaire: -0.0526353
+41: 287.618, 196.361
+42: avant 288.667, 201.833
+gradient en x0.015873
+gradient en y 0.00114715
+scalaire: 0.0151209
+42: 289.794, 201.551
+43: avant 294.218, 205.756
+gradient en x0.0098345
+gradient en y 0.00439264
+scalaire: 0.0068318
+43: 294.5, 205.615
+44: avant 293.936, 211.013
+gradient en x-0.00463822
+gradient en y 0.0395538
+scalaire: -0.00463822
+44: 293.79, 211.013
+45: avant 294.89, 216
+gradient en x0.0211876
+gradient en y -0.0209751
+scalaire: 0.0211876
+45: 295.008, 216
+46: avant 294.061, 221
+gradient en x0.0833333
+gradient en y -0.108392
+scalaire: 0.0833333
+46: 298.799, 221
+47: avant 294.234, 226.353
+gradient en x-0.0562267
+gradient en y 0.0833333
+scalaire: -0.0714778
+47: 293.195, 226.561
+48: avant 296.748, 231.05
+gradient en x-0.329531
+gradient en y -0.0621396
+scalaire: -0.282884
+48: 283.526, 236.339
+49: avant 298.402, 235.92
+gradient en x0.0074161
+gradient en y 0.00364457
+scalaire: 0.0074161
+49: 298.761, 235.92
+50: avant 298.351, 241
+gradient en x-0.0272788
+gradient en y -0.00529143
+scalaire: -0.0272788
+50: 297.019, 241
+51: avant 299.5, 246
+gradient en x0.00936508
+gradient en y -0.0035359
+scalaire: 0.00987666
+51: 299.984, 245.903
+52: avant 300.228, 250.954
+gradient en x-0.000447331
+gradient en y -0.0669453
+scalaire: 0.0244475
+52: 301.386, 250.491
+53: avant 302.853, 255.629
+gradient en x-0.0018315
+gradient en y 0.327519
+scalaire: -0.0660278
+53: 299.527, 256.295
+54: avant 302.657, 260.869
+gradient en x0.00679701
+gradient en y 0.0040742
+scalaire: 0.00679701
+54: 302.997, 260.869
+55: avant 302.89, 266
+gradient en x-0.00599754
+gradient en y -0.0381282
+scalaire: 0.00859187
+55: 303.418, 265.789
+56: avant 307.319, 271
+gradient en x0.0320261
+gradient en y 0.0717087
+scalaire: 0.0320261
+56: 308.269, 271
+57: avant 303.979, 276.005
+gradient en x-0.00114715
+gradient en y -0.020185
+scalaire: -0.00114715
+57: 304.523, 276.005
+58: avant 305.623, 279.844
+gradient en x0.00408967
+gradient en y 0.00194012
+scalaire: 9.3655e-05
+58: 305.634, 279.821
+59: avant 316.352, 282.93
+gradient en x0.000157312
+gradient en y -0.00186884
+scalaire: 0.0010964
+59: 316.384, 282.911
+60: avant 312.421, 290
+gradient en x-0.00373269
+gradient en y -0.0439359
+scalaire: -0.0274771
+60: 311.229, 289.206
+61: avant 306.642, 295
+gradient en x0.0558214
+gradient en y -0.483333
+scalaire: -0.127677
+61: 303.262, 293.648
+62: avant 308.22, 299.969
+gradient en x0.00263674
+gradient en y 0.149004
+scalaire: -0.0383991
+62: 306.396, 300.49
+63: avant 312.351, 309.47
+gradient en x0.0464576
+gradient en y -0.221391
+scalaire: -0.0841505
+63: 307.172, 306.017
+64: avant 303.241, 307.482
+gradient en x0.116809
+gradient en y 0.0310345
+scalaire: 0.104541
+64: 311.625, 315.865
+65: avant 302.667, 317.333
+gradient en x0.0277778
+gradient en y -0.126984
+scalaire: 0.0277778
+65: 303.656, 317.333
+66: avant 302.333, 326.667
+gradient en x-0.117886
+gradient en y 0.0582011
+scalaire: 0.0742877
+66: 302.122, 328.148
+67: avant 289.171, 313.894
+gradient en x-0.0940767
+gradient en y 0.026738
+scalaire: 0.0418403
+67: 288.194, 319.756
+68: avant 289.511, 325.021
+gradient en x0.0312297
+gradient en y -0.03998
+scalaire: -0.0159423
+68: 285.085, 318.383
+69: avant 281.701, 319.403
+gradient en x0.00841751
+gradient en y 0.148485
+scalaire: 0.147252
+69: 284.082, 331.307
+70: avant 279.943, 326.924
+gradient en x-0.00984892
+gradient en y 0.000448397
+scalaire: -0.00920171
+70: 279.473, 326.767
+71: avant 276.948, 331.897
+gradient en x0.0361991
+gradient en y -0.034632
+scalaire: 0.0321532
+71: 278.962, 332.121
+72: avant 277.75, 345.5
+gradient en x-0.0833333
+gradient en y 0.107143
+scalaire: 0.0585637
+72: 274.393, 338.786
+73: avant 268.644, 337.192
+gradient en x0
+gradient en y -0.233333
+scalaire: -0.214467
+73: 270.728, 332.33
+74: avant 264.171, 340.342
+gradient en x0.0793651
+gradient en y -0.357143
+scalaire: -0.357143
+74: 264.171, 317.485
+75: avant 258.178, 338.356
+gradient en x-0.233333
+gradient en y 0.132353
+scalaire: 0.132353
+75: 258.178, 349.418
+76: avant 252.712, 341.283
+gradient en x-0.179487
+gradient en y -0.166667
+scalaire: -0.244768
+76: 245.174, 333.745
+77: avant 250.397, 346.794
+gradient en x0.0128205
+gradient en y 0.0252101
+scalaire: 0.0253825
+77: 250.208, 346.652
+78: avant 246.423, 348.847
+gradient en x-0.00230415
+gradient en y 0.0199362
+scalaire: 0.0124677
+78: 247.195, 349.618
+79: avant 244.155, 353.873
+gradient en x-0.0296296
+gradient en y 0.0160616
+scalaire: -0.00959407
+79: 243.56, 353.278
+80: avant 238.59, 355.18
+gradient en x0.221014
+gradient en y 0.0312297
+scalaire: 0.0739677
+80: 239.301, 358.736
+81: avant 232.939, 355.877
+gradient en x-0.169591
+gradient en y 0.183333
+scalaire: 0.0449123
+81: 236.953, 361.229
+82: avant 230.298, 360.73
+gradient en x0.0119048
+gradient en y 0.00133761
+scalaire: 0.00652037
+82: 230.022, 360.18
+83: avant 224.504, 361.339
+gradient en x-0.127932
+gradient en y 0.0137812
+scalaire: -0.0657341
+83: 222.899, 359.199
+84: avant 221.584, 367.918
+gradient en x0.00664409
+gradient en y 0.0229826
+scalaire: 0.0238064
+84: 221.782, 368.413
+85: avant 215, 364.686
+gradient en x0.0316865
+gradient en y 0.0470588
+scalaire: 0.0399307
+85: 214.593, 366.723
+86: avant 211, 365.305
+gradient en x-0.107143
+gradient en y 0.00610221
+scalaire: 0.031906
+86: 211.565, 363.047
+87: avant 206, 361.613
+gradient en x0.0961417
+gradient en y 0.224359
+scalaire: 0.224359
+87: 206, 373.72
+88: avant 201, 363.502
+gradient en x0.315634
+gradient en y -0.0793651
+scalaire: -0.0159229
+88: 200.742, 362.212
+89: avant 196, 364.413
+gradient en x-0.0489676
+gradient en y 0.264368
+scalaire: 0.264368
+89: 196, 377.631
+90: avant 191, 363.625
+gradient en x0.0766234
+gradient en y 0.0374801
+scalaire: 0.0374801
+90: 191, 365.677
+91: avant 186, 365.081
+gradient en x0.0111736
+gradient en y 0.00162016
+scalaire: 0.00378002
+91: 186.037, 365.266
+92: avant 181, 366.407
+gradient en x-0.161616
+gradient en y 0.0974026
+scalaire: 0.0974026
+92: 181, 369.278
+93: avant 176, 365.326
+gradient en x-0.00745551
+gradient en y 0.0065136
+scalaire: 0.00977446
+93: 176.073, 365.28
+94: avant 171, 350.185
+gradient en x-0.15
+gradient en y -0.111111
+scalaire: -0.111111
+94: 171, 385.963
+95: avant 166, 366.115
+gradient en x-0.0062724
+gradient en y -0.0994652
+scalaire: -0.0603923
+95: 162.73, 363.934
+96: avant 162.212, 362.576
+gradient en x-0.0311262
+gradient en y -0.0275405
+scalaire: -0.0162843
+96: 162.441, 361.888
+97: avant 154.266, 361.867
+gradient en x-0.057041
+gradient en y -0.0507937
+scalaire: 0.0759394
+97: 152.083, 360.307
+98: avant 172.068, 347.966
+gradient en x-0.0833333
+gradient en y 0.0277778
+scalaire: 0.0833333
+98: 111.135, 393.666
+99: avant 148.395, 353.302
+gradient en x0.282353
+gradient en y 0.166667
+scalaire: 0.166667
+99: 148.395, 359.506
+100: avant 146.233, 349.384
+gradient en x0.0710145
+gradient en y 0.0231395
+scalaire: -0.0741735
+100: 150.57, 350.251
+101: avant 150.393, 341.803
+gradient en x0.107143
+gradient en y 0.185185
+scalaire: -0.0130142
+101: 148.636, 342.682
+102: avant 140.808, 340.077
+gradient en x0.227528
+gradient en y -0.310861
+scalaire: -0.368539
+102: 158.021, 327.167
+103: avant 142.532, 333.624
+gradient en x-0.0629371
+gradient en y -0.0312297
+scalaire: 0.0555902
+103: 138.562, 334.418
+104: avant 138.464, 329.839
+gradient en x0
+gradient en y -0.0307018
+scalaire: -0.0285059
+104: 138.445, 329.888
+105: avant 133, 328.999
+gradient en x0.382353
+gradient en y -0.0272727
+scalaire: -0.0272727
+105: 133, 328.026
+106: avant 127.6, 330
+gradient en x0.0454361
+gradient en y -0.134409
+scalaire: -0.0856082
+106: 132.396, 328.401
+107: avant 126.797, 310.811
+gradient en x-0.0429915
+gradient en y -0.0631313
+scalaire: -0.03724
+107: 125.709, 312.987
+108: avant 118.923, 325.308
+gradient en x0
+gradient en y 0
+scalaire: 0
+108: 116.482, 323.215
+109: avant 113.531, 325.344
+gradient en x0.173442
+gradient en y -0.0705128
+scalaire: -0.129884
+109: 116.24, 318.572
+110: avant 109.347, 320.263
+gradient en x0.020185
+gradient en y -0.0738916
+scalaire: -0.060483
+110: 112.048, 318.238
+111: avant 106.623, 316.377
+gradient en x0.0126263
+gradient en y -0.057041
+scalaire: -0.0544648
+111: 106.95, 315.886
+112: avant 102.013, 315
+gradient en x-0.000544663
+gradient en y -0.126984
+scalaire: -0.113334
+112: 104.573, 309.878
+113: avant 95.2051, 310
+gradient en x0.0381342
+gradient en y -0.0106445
+scalaire: -0.0381342
+113: 99.7118, 310
+114: avant 101.073, 305
+gradient en x-0.0169373
+gradient en y -0.0842424
+scalaire: 0.057866
+114: 98.3376, 303.359
+115: avant 101.656, 300
+gradient en x-0.0118899
+gradient en y -0.0250549
+scalaire: -0.011636
+115: 101.862, 299.753
+116: avant 87.8824, 295
+gradient en x0.00478732
+gradient en y 0.0233918
+scalaire: 0.0131554
+116: 87.5161, 295.366
+117: avant 91.169, 290
+gradient en x-0.0279155
+gradient en y -0.0136864
+scalaire: 0.0273627
+117: 90.4434, 288.984
+118: avant 101.915, 285
+gradient en x-0.0487296
+gradient en y -0.0846786
+scalaire: 0.0943338
+118: 98.4612, 281.546
+119: avant 102.264, 280
+gradient en x0.00527009
+gradient en y 0.0563326
+scalaire: -0.00527009
+119: 102.527, 280
+120: avant 101.708, 275
+gradient en x-0.00312431
+gradient en y -0.00134724
+scalaire: 0.00312431
+120: 101.552, 275
+121: avant 102.173, 270
+gradient en x0.00345066
+gradient en y -0.00512145
+scalaire: 0.00303758
+121: 102.161, 269.977
+122: avant 121.663, 265
+gradient en x-0.000499038
+gradient en y -0.0124048
+scalaire: 0.000499038
+122: 120.552, 265
+123: avant 100.916, 260
+gradient en x0.000709674
+gradient en y -0.00104016
+scalaire: -0.00120395
+123: 101.182, 259.788
+124: avant 112.784, 255
+gradient en x-0.0479798
+gradient en y 0.0184704
+scalaire: 0.0479798
+124: 104.252, 255
+125: avant 101.84, 250.08
+gradient en x0.00201926
+gradient en y 0.00326213
+scalaire: 0.00183049
+125: 101.877, 250.014
+126: avant 98.5527, 245.585
+gradient en x-0.0154341
+gradient en y -0.0130934
+scalaire: -0.00642486
+126: 98.6686, 245.296
+127: avant 92.2325, 244.767
+gradient en x0.0029785
+gradient en y 0.0333126
+scalaire: 0.024863
+127: 91.5443, 245.685
+128: avant 91.2021, 238.798
+gradient en x-0.0415584
+gradient en y 0.0768307
+scalaire: 0.0558192
+128: 88.4439, 239.35
+129: avant 89.8927, 233.58
+gradient en x-0.0100471
+gradient en y -0.034632
+scalaire: -0.00353352
+129: 88.6847, 234.064
+130: avant 86.3611, 228.639
+gradient en x0.107143
+gradient en y 0.155556
+scalaire: 0.167644
+130: 87.643, 238.894
+131: avant 73.0233, 235.977
+gradient en x-0.0167888
+gradient en y 0.0129658
+scalaire: 0.0191051
+131: 73.115, 235.793
+132: avant 77.4656, 223.534
+gradient en x0.00557461
+gradient en y 0.0102983
+scalaire: -0.00557461
+132: 77.7194, 223.534
+133: avant 73.3813, 221.619
+gradient en x-0.00145513
+gradient en y -0.00706613
+scalaire: 0.0024398
+133: 73.3467, 221.614
+134: avant 80.1745, 209.369
+gradient en x-0.026936
+gradient en y -0.0109673
+scalaire: 0.0209363
+134: 68.416, 214.073
+135: avant 67.8708, 212.129
+gradient en x0.00786387
+gradient en y -0.000286286
+scalaire: -0.000286286
+135: 67.8708, 212.052
+136: avant 62.8118, 210.188
+gradient en x-0.000329381
+gradient en y 0.00746966
+scalaire: 0.00705998
+136: 62.9554, 210.667
+137: avant 48.2446, 217.755
+gradient en x-0.0044322
+gradient en y -0.0221826
+scalaire: -0.0125514
+137: 49.0365, 216.963
+138: avant 57.0362, 202.964
+gradient en x0.0518724
+gradient en y -0.210027
+scalaire: -0.00507593
+138: 57.1466, 202.988
+139: avant 52.2379, 199.572
+gradient en x0.000281885
+gradient en y -0.00315733
+scalaire: -0.00269499
+139: 52.3232, 199.458
+140: avant 49.4825, 195.518
+gradient en x-0.0206349
+gradient en y -0.173442
+scalaire: -0.16769
+140: 50.8122, 187.539
+141: avant 40.0141, 197.986
+gradient en x0.00918353
+gradient en y -0.021164
+scalaire: -0.021164
+141: 40.0141, 196.543
+142: avant 34.0509, 194.712
+gradient en x0.113193
+gradient en y 0.161417
+scalaire: -0.0451479
+142: 37.1058, 193.49
+143: avant 35.5342, 187.466
+gradient en x-0.000849673
+gradient en y 0.00157445
+scalaire: 0.000618473
+143: 35.4924, 187.46
+144: avant 36.2293, 180.771
+gradient en x-0.00418834
+gradient en y -0.00247206
+scalaire: 0.0036222
+144: 36.0268, 180.811
+145: avant 32.586, 176.414
+gradient en x3.68565e-05
+gradient en y 3.08517e-05
+scalaire: -4.24605e-06
+145: 32.5749, 176.425
+146: avant 28.6878, 174.312
+gradient en x0.0180859
+gradient en y 0.00360856
+scalaire: 0.000586153
+146: 28.6803, 174.357
+147: avant 21.4004, 172.7
+gradient en x-0.166667
+gradient en y -0.233333
+scalaire: -0.00666666
+147: 27.6732, 167.995
+148: avant 22.7407, 165.259
+gradient en x0.0833333
+gradient en y -0.15
+scalaire: -0.117226
+148: 17.6619, 166.529
+149: avant 17.8889, 164.111
+gradient en x-0.233333
+gradient en y 0.0252101
+scalaire: 0.180161
+149: 23.806, 168.056
+150: avant 27.1602, 159
+gradient en x0.177778
+gradient en y -0.277778
+scalaire: 0.168947
+150: 28.1824, 161.044
+151: avant 23.5, 162
+gradient en x0.111111
+gradient en y 0
+scalaire: 0
+151: 23.5, 6.44444
+152: avant 25.2778, 157.556
+gradient en x0.1
+gradient en y -0.111111
+scalaire: -0.109649
+152: 29.23, 157.196
+153: avant 21.0571, 139.114
+gradient en x0.166667
+gradient en y -0.0666667
+scalaire: 0
+153: 40.6529, 188.104
+154: avant 35.4427, 153.924
+gradient en x-0.177778
+gradient en y 0
+scalaire: -0.0251416
+154: 38.0649, 135.568
+155: avant 34.5992, 142.198
+gradient en x-0.333333
+gradient en y 0
+scalaire: 0.235702
+155: 34.109, 141.708
+156: avant 41.7501, 146.5
+gradient en x0.357143
+gradient en y 0
+scalaire: -0.252538
+156: 28.4564, 133.206
+157: avant 40.9209, 135.895
+gradient en x-0.233333
+gradient en y -0.35
+scalaire: 0.270557
+157: 28.7808, 134.546
+158: avant 43.5556, 128.111
+gradient en x0.246154
+gradient en y 0.282353
+scalaire: -0.325145
+158: 50.8859, 164.763
+159: avant 51.8, 132.6
+gradient en x0.0833333
+gradient en y -0.0833333
+scalaire: 0.0958994
+159: 53.2051, 124.169
+160: avant 56.2789, 131.039
+gradient en x-0.0077187
+gradient en y -0.32475
+scalaire: 0.32475
+160: 56.2789, 115.71
+161: avant 63.4976, 133.995
+gradient en x-0.179487
+gradient en y 0.257143
+scalaire: -0.313185
+161: 54.9998, 147.592
+162: avant 72.1, 141.2
+gradient en x0.132353
+gradient en y -0.266667
+scalaire: 0.0949742
+162: 51.5547, 120.655
+163: avant 70.703, 124.937
+gradient en x0.142977
+gradient en y -0.0760073
+scalaire: -0.120273
+163: 76.9835, 126.507
+164: avant 76.1676, 125.335
+gradient en x0.0122094
+gradient en y 0.00485175
+scalaire: 0.00184504
+164: 76.1604, 125.348
+165: avant 85.3525, 133.705
+gradient en x0
+gradient en y -0.111111
+scalaire: 0.0666667
+165: 49.6619, 106.937
+166: avant 81.9096, 115.88
+gradient en x0.0512195
+gradient en y -0.264368
+scalaire: -0.0180332
+166: 89.6966, 116.853
+167: avant 87.8365, 116.673
+gradient en x0.0173327
+gradient en y -0.00469743
+scalaire: 0.00120699
+167: 87.3547, 114.264
+168: avant 92.0737, 113.147
+gradient en x0.0507937
+gradient en y 0.0464576
+scalaire: -0.0507937
+168: 94.0134, 113.147
+169: avant 86.9744, 97.2992
+gradient en x0.257143
+gradient en y -0.121212
+scalaire: -0.132987
+169: 122.161, 123.689
+170: avant 98.8961, 104.792
+gradient en x0.00377929
+gradient en y -0.0355113
+scalaire: 0.0300906
+170: 99.8285, 103.627
+171: avant 108.24, 113.481
+gradient en x-0.0582011
+gradient en y 0.0649123
+scalaire: -0.0386542
+171: 106.659, 109.528
+172: avant 108.709, 100.945
+gradient en x0.190476
+gradient en y -0.0833333
+scalaire: -0.160254
+172: 121.522, 104.606
+173: avant 112.834, 98.6681
+gradient en x-0.0683761
+gradient en y 0.179487
+scalaire: 0.0683761
+173: 104.477, 98.6681
+174: avant 109.429, 81.8571
+gradient en x-0.0674603
+gradient en y -0.0285714
+scalaire: 0.0285714
+174: 109.429, 124.429
+175: avant 124.34, 97.7866
+gradient en x0.15
+gradient en y 0.233333
+scalaire: -0.165808
+175: 124.544, 97.2424
+176: avant 124.743, 88.4857
+gradient en x0.111111
+gradient en y -0.0382775
+scalaire: -0.106204
+176: 130.039, 89.0742
+177: avant 125.728, 80.4554
+gradient en x0.382353
+gradient en y -0.0793651
+scalaire: 0.0793651
+177: 125.728, 96.4872
+178: avant 135.188, 86.9171
+gradient en x-0.0176471
+gradient en y -0.0793651
+scalaire: 0.0659965
+178: 136.959, 82.7842
+179: avant 140.005, 87.009
+gradient en x-0.153257
+gradient en y -0.138889
+scalaire: 0.202874
+179: 126.501, 78.9066
+180: avant 141.186, 77.3725
+gradient en x-0.15
+gradient en y -0.0666667
+scalaire: 0.0475466
+180: 139.481, 91.0136
+181: avant 156.714, 90.2857
+gradient en x0.177778
+gradient en y 0.0476191
+scalaire: -0.0476191
+181: 156.714, 77.2381
+182: avant 151.467, 75.9333
+gradient en x0
+gradient en y 0.25
+scalaire: 0.0447214
+182: 150.456, 76.1172
+183: avant 152.935, 68.3382
+gradient en x0.126984
+gradient en y 0.0277778
+scalaire: 0.0818053
+183: 153.365, 67.9946
+Over
+New polygon with 184 points.
+Drawing polygon with 184
+Point size: 184
+0: avant 150.138, 69.7447
+gradient en x-0.0666667
+gradient en y -0.0793651
+scalaire: 0.102635
+0: 147.313, 65.2246
+1: avant 170.013, 57.4854
+gradient en x0.132353
+gradient en y -0.277778
+scalaire: 0.221669
+1: 168.675, 53.4707
+2: avant 162.601, 65.7499
+gradient en x-0.179487
+gradient en y -0.155556
+scalaire: -0.103698
+2: 160.54, 66.633
+3: avant 176.61, 72.1068
+gradient en x0.0683761
+gradient en y 0
+scalaire: 0.0362392
+3: 177.143, 71.2539
+4: avant 178.783, 75.7086
+gradient en x-0.309091
+gradient en y -0.104575
+scalaire: 0.00146558
+4: 182.14, 65.6391
+5: avant 182.669, 73.5178
+gradient en x0.111111
+gradient en y 0
+scalaire: -0.108953
+5: 177.064, 72.3968
+6: avant 181.27, 64.7695
+gradient en x0.137255
+gradient en y 0.354545
+scalaire: 0.347755
+6: 196.043, 79.5429
+7: avant 175.134, 82.6469
+gradient en x0
+gradient en y 0.282353
+scalaire: -0.118322
+7: 173.598, 83.3558
+8: avant 193.272, 90.7443
+gradient en x-0.00181477
+gradient en y -0.00614666
+scalaire: 0.00597472
+8: 193.301, 90.4044
+9: avant 199.874, 85.5846
+gradient en x0.000740229
+gradient en y 0.0130824
+scalaire: -0.0130261
+9: 199.997, 86.3234
+10: avant 204.963, 88.0739
+gradient en x0.0106946
+gradient en y -0.00599975
+scalaire: 0.0101491
+10: 205.185, 87.6303
+11: avant 208.759, 90.4825
+gradient en x-0.0234488
+gradient en y -0.00103419
+scalaire: -0.00956161
+11: 208.55, 90.9003
+12: avant 213.775, 92.3799
+gradient en x-0.00210084
+gradient en y -3.23877e-05
+scalaire: 3.23877e-05
+12: 213.775, 92.3522
+13: avant 225.062, 91.0663
+gradient en x0.0301597
+gradient en y -0.0961417
+scalaire: 0.0916584
+13: 224.488, 86.4757
+14: avant 231.13, 90.4815
+gradient en x0.0381342
+gradient en y 0
+scalaire: 0.0317295
+14: 230.922, 90.6197
+15: avant 229.929, 96.7671
+gradient en x-0.0490196
+gradient en y -0.0222222
+scalaire: -0.0490196
+15: 230.363, 96.7671
+16: avant 232.121, 98.338
+gradient en x-0.00229885
+gradient en y 0.153257
+scalaire: -0.149238
+16: 230.577, 104.512
+17: avant 239.18, 98.6401
+gradient en x-0.0060401
+gradient en y -0.0025296
+scalaire: -0.0024823
+17: 239.042, 98.7785
+18: avant 240.95, 105.983
+gradient en x0.0313473
+gradient en y 0.0164021
+scalaire: 0.0287127
+18: 242.36, 105.781
+19: avant 242.171, 114.082
+gradient en x-0.00682966
+gradient en y -0.00595845
+scalaire: 0.00718215
+19: 242.048, 113.467
+20: avant 251.093, 103.316
+gradient en x-0.00866091
+gradient en y 0.00132275
+scalaire: -0.00132275
+20: 251.093, 103.871
+21: avant 254.76, 114.857
+gradient en x-0.0943912
+gradient en y 0
+scalaire: -0.0925582
+21: 250.193, 115.77
+22: avant 255.098, 122.743
+gradient en x-0.03998
+gradient en y -0.0545455
+scalaire: 0.0102993
+22: 257.947, 119.894
+23: avant 261.501, 120.685
+gradient en x0.001573
+gradient en y -0.00700115
+scalaire: 0.00519235
+23: 261.689, 120.56
+24: avant 270.672, 147.313
+gradient en x0.00372689
+gradient en y 0.0365428
+scalaire: -0.0365428
+24: 270.672, 146.507
+25: avant 272.863, 120.057
+gradient en x9.90321e-05
+gradient en y -0.0062953
+scalaire: 0.00238882
+25: 272.786, 120.024
+26: avant 284.214, 118.786
+gradient en x0.0108037
+gradient en y -0.0160401
+scalaire: 0.0189814
+26: 284.15, 118.85
+27: avant 279.207, 126.943
+gradient en x-0.309524
+gradient en y -0.141651
+scalaire: -0.3286
+27: 263.439, 124.315
+28: avant 280.958, 132.008
+gradient en x-0.00234465
+gradient en y -0.00875564
+scalaire: -0.000581991
+28: 280.914, 132.017
+29: avant 281.54, 137.092
+gradient en x-0.00442948
+gradient en y 0.0249614
+scalaire: -0.00923878
+29: 281.087, 137.183
+30: avant 282.872, 142
+gradient en x-0.000778087
+gradient en y -0.000874572
+scalaire: -0.000778087
+30: 282.802, 142
+31: avant 282.758, 147
+gradient en x-0.000174913
+gradient en y -0.000319432
+scalaire: -0.000174913
+31: 282.745, 147
+32: avant 282.234, 152.051
+gradient en x0.00143652
+gradient en y -0.000184407
+scalaire: 0.00114617
+32: 282.299, 151.987
+33: avant 291.653, 155.684
+gradient en x-0.00125673
+gradient en y -0.00314094
+scalaire: -3.23878e-07
+33: 291.582, 155.712
+34: avant 285.713, 162.057
+gradient en x-0.000989686
+gradient en y 0.014464
+scalaire: -0.000989686
+34: 285.712, 162.057
+35: avant 291.147, 168.058
+gradient en x-0.0312297
+gradient en y 0.0143678
+scalaire: -0.028888
+35: 290.423, 169.194
+36: avant 309.096, 176.715
+gradient en x0.00260778
+gradient en y -0.0358608
+scalaire: -0.00616759
+36: 286.375, 171.034
+37: avant 288.893, 176.167
+gradient en x0.0555556
+gradient en y 0.104575
+scalaire: 0.11344
+37: 290.339, 183.393
+38: avant 288.486, 181.833
+gradient en x-0.126984
+gradient en y 0.0252511
+scalaire: -0.126984
+38: 282.49, 181.833
+39: avant 289.925, 187.015
+gradient en x0.000400409
+gradient en y -0.000377066
+scalaire: 0.000466582
+39: 289.938, 187.012
+40: avant 291.158, 192
+gradient en x0.00185499
+gradient en y -0.00791971
+scalaire: -0.000121206
+40: 291.071, 191.978
+41: avant 287.618, 196.361
+gradient en x-0.0298368
+gradient en y 0
+scalaire: -0.0298368
+41: 286.556, 196.361
+42: avant 289.794, 201.551
+gradient en x0.0319219
+gradient en y 0.0591616
+scalaire: -0.00306559
+42: 289.741, 201.583
+43: avant 294.5, 205.615
+gradient en x0.0098345
+gradient en y 0.00439264
+scalaire: 0.0068318
+43: 294.786, 205.472
+44: avant 293.79, 211.013
+gradient en x-0.00463822
+gradient en y 0.0395538
+scalaire: -0.00463822
+44: 293.644, 211.013
+45: avant 295.008, 216
+gradient en x-0.00166364
+gradient en y -0.11089
+scalaire: 0.039639
+45: 296.909, 215.24
+46: avant 298.799, 221
+gradient en x-0.0205081
+gradient en y -0.00276029
+scalaire: -0.0206512
+46: 297.572, 220.754
+47: avant 293.195, 226.561
+gradient en x-0.0152654
+gradient en y 0.176768
+scalaire: 0.114199
+47: 297.233, 230.599
+48: avant 283.526, 236.339
+gradient en x-0.000380797
+gradient en y 0.00109232
+scalaire: -0.000960033
+48: 283.533, 236.334
+49: avant 298.761, 235.92
+gradient en x0.0074161
+gradient en y 0.00364457
+scalaire: -0.00111236
+49: 298.72, 236.043
+50: avant 297.019, 241
+gradient en x-0.0202597
+gradient en y -0.00689324
+scalaire: -0.0202597
+50: 296.247, 241
+51: avant 299.984, 245.903
+gradient en x0.00164349
+gradient en y 0.0019856
+scalaire: 0.000581989
+51: 299.986, 245.902
+52: avant 301.386, 250.491
+gradient en x0.000740957
+gradient en y 0.00767746
+scalaire: 0.000740957
+52: 301.407, 250.491
+53: avant 299.527, 256.295
+gradient en x-0.00181488
+gradient en y -0.0238965
+scalaire: 0.00290684
+53: 299.935, 256.213
+54: avant 302.997, 260.869
+gradient en x0.00679701
+gradient en y 0.0040742
+scalaire: 0.005866
+54: 303.26, 260.816
+55: avant 303.418, 265.789
+gradient en x-0.00140181
+gradient en y -0.00335493
+scalaire: -5.55548e-05
+55: 303.476, 265.766
+56: avant 308.269, 271
+gradient en x0.0710145
+gradient en y -0.0126738
+scalaire: 0.072121
+56: 308.987, 270.856
+57: avant 304.523, 276.005
+gradient en x-0.00446846
+gradient en y -0.0103419
+scalaire: -0.00684332
+57: 305.203, 276.175
+58: avant 305.634, 279.821
+gradient en x0.00408967
+gradient en y 0.00194012
+scalaire: 0.000440474
+58: 305.664, 279.773
+59: avant 316.384, 282.911
+gradient en x0.000157312
+gradient en y -0.00186884
+scalaire: 0.000976473
+59: 316.399, 282.903
+60: avant 311.229, 289.206
+gradient en x0.0263158
+gradient en y 0.0076278
+scalaire: 0.0227068
+60: 311.932, 290.049
+61: avant 303.262, 293.648
+gradient en x0.0940767
+gradient en y 0.0793651
+scalaire: 0.116823
+61: 314.334, 298.077
+62: avant 306.396, 300.49
+gradient en x-0.00829732
+gradient en y -0.215933
+scalaire: 0.0604125
+62: 308.853, 299.671
+63: avant 307.172, 306.017
+gradient en x-0.00366142
+gradient en y 0.0775281
+scalaire: -0.0306502
+63: 305.763, 306.545
+64: avant 311.625, 315.865
+gradient en x-0.0501377
+gradient en y 0.0173636
+scalaire: -0.0457588
+64: 307.426, 315.026
+65: avant 303.656, 317.333
+gradient en x-0.264368
+gradient en y -0.282353
+scalaire: -0.383851
+65: 290.232, 306.147
+66: avant 302.122, 328.148
+gradient en x0.35122
+gradient en y 0.0452381
+scalaire: 0.0884522
+66: 301.808, 325.636
+67: avant 288.194, 319.756
+gradient en x-0.0128205
+gradient en y -0.292517
+scalaire: -0.241259
+67: 294.734, 309.291
+68: avant 285.085, 318.383
+gradient en x-0.111111
+gradient en y 0
+scalaire: -0.103164
+68: 284.26, 318.053
+69: avant 284.082, 331.307
+gradient en x0.014581
+gradient en y -0.00142583
+scalaire: 0.0108093
+69: 284.42, 331.56
+70: avant 279.473, 326.767
+gradient en x-0.00984892
+gradient en y 0.000448397
+scalaire: 0.000448397
+70: 279.473, 328.494
+71: avant 278.962, 332.121
+gradient en x-0.0666667
+gradient en y 0
+scalaire: -0.0632455
+71: 274.569, 330.656
+72: avant 274.393, 338.786
+gradient en x0.15
+gradient en y 0
+scalaire: 0
+72: 274.393, 295.036
+73: avant 270.728, 332.33
+gradient en x0.0476191
+gradient en y 0.0833333
+scalaire: -0.00886721
+73: 271.08, 332.17
+74: avant 264.171, 317.485
+gradient en x-0.00952143
+gradient en y 0.002159
+scalaire: -0.00632175
+74: 263.938, 317.31
+75: avant 258.178, 349.418
+gradient en x-0.198693
+gradient en y 0.00308048
+scalaire: -0.129702
+75: 253.194, 343.811
+76: avant 245.174, 333.745
+gradient en x0.0555556
+gradient en y 0.0666667
+scalaire: 0.051202
+76: 233.712, 379.597
+77: avant 250.208, 346.652
+gradient en x0.0128205
+gradient en y 0.0252101
+scalaire: 0.00959458
+77: 249.481, 346.743
+78: avant 247.195, 349.618
+gradient en x0.00935673
+gradient en y 0.00926385
+scalaire: 0.0131667
+78: 247.66, 350.084
+79: avant 243.56, 353.278
+gradient en x-0.00286407
+gradient en y 0.00471907
+scalaire: 0.00131169
+79: 243.617, 353.336
+80: avant 239.301, 358.736
+gradient en x-0.0111643
+gradient en y 0.00999806
+scalaire: -0.00293259
+80: 239.184, 358.648
+81: avant 236.953, 361.229
+gradient en x-0.00359477
+gradient en y -0.0458289
+scalaire: -0.0458289
+81: 236.953, 358.628
+82: avant 230.022, 360.18
+gradient en x0.0119048
+gradient en y 0.00133761
+scalaire: -0.000359417
+82: 230.025, 360.162
+83: avant 222.899, 359.199
+gradient en x0.0361991
+gradient en y -0.0185185
+scalaire: 0.0125021
+83: 224.478, 360.777
+84: avant 221.782, 368.413
+gradient en x0.0349325
+gradient en y -0.124339
+scalaire: -0.0632197
+84: 219.051, 365.682
+85: avant 214.593, 366.723
+gradient en x0.115079
+gradient en y 0.0544218
+scalaire: 0.00778994
+85: 215.663, 364.046
+86: avant 211.565, 363.047
+gradient en x0.241597
+gradient en y 0.000819849
+scalaire: 0.145614
+86: 216.298, 369.358
+87: avant 206, 373.72
+gradient en x-0.0025641
+gradient en y 0.0104499
+scalaire: 0.0104499
+87: 206, 373.362
+88: avant 200.742, 362.212
+gradient en x0.19975
+gradient en y 0.0034134
+scalaire: 0.0773547
+88: 202.819, 367.403
+89: avant 196, 377.631
+gradient en x0.00343112
+gradient en y -0.137729
+scalaire: -0.126604
+89: 193.133, 370.463
+90: avant 191, 365.677
+gradient en x-0.0219436
+gradient en y -0.0275039
+scalaire: -0.00075003
+90: 190.417, 366.162
+91: avant 186.037, 365.266
+gradient en x0.0111736
+gradient en y 0.00162016
+scalaire: 0.00378002
+91: 186.193, 366.048
+92: avant 181, 369.278
+gradient en x0.113872
+gradient en y 0.0229826
+scalaire: 0.0229826
+92: 181, 365.504
+93: avant 176.073, 365.28
+gradient en x-0.00745551
+gradient en y 0.0065136
+scalaire: -0.00287006
+93: 176.822, 365.748
+94: avant 171, 385.963
+gradient en x-0.025891
+gradient en y 0
+scalaire: 0
+94: 171, 381.088
+95: avant 162.73, 363.934
+gradient en x0.238701
+gradient en y 0.0201623
+scalaire: -0.220075
+95: 173.173, 360.453
+96: avant 162.441, 361.888
+gradient en x-0.0887006
+gradient en y -0.0228065
+scalaire: 0.0117673
+96: 161.997, 362.998
+97: avant 152.083, 360.307
+gradient en x-0.0476191
+gradient en y 0.0822511
+scalaire: 0.0436085
+97: 153.328, 362.252
+98: avant 111.135, 393.666
+gradient en x-0.234496
+gradient en y -0.179487
+scalaire: -0.179487
+98: 111.135, 141.835
+99: avant 148.395, 359.506
+gradient en x-0.153257
+gradient en y -0.00463822
+scalaire: 0.116521
+99: 144.032, 355.539
+100: avant 150.57, 350.251
+gradient en x0.153257
+gradient en y 0.282353
+scalaire: -0.153257
+100: 155.629, 350.251
+101: avant 148.636, 342.682
+gradient en x-0.321773
+gradient en y -0.0180737
+scalaire: 0.31519
+101: 133.506, 338.556
+102: avant 158.021, 327.167
+gradient en x-0.111111
+gradient en y 0.431034
+scalaire: 0.405992
+102: 131.836, 359.898
+103: avant 138.562, 334.418
+gradient en x0.06298
+gradient en y -0.0822511
+scalaire: -0.0755761
+103: 138.139, 330.183
+104: avant 138.445, 329.888
+gradient en x0
+gradient en y -0.0307018
+scalaire: -0.0217094
+104: 136.648, 331.684
+105: avant 133, 328.026
+gradient en x0.382353
+gradient en y -0.0272727
+scalaire: -0.146784
+105: 135.223, 321.356
+106: avant 132.396, 328.401
+gradient en x-0.114035
+gradient en y 0
+scalaire: 0.104815
+106: 127.674, 330.425
+107: avant 125.709, 312.987
+gradient en x0.0426497
+gradient en y 0.0470588
+scalaire: 0.0353097
+107: 124.991, 315.861
+108: avant 116.482, 323.215
+gradient en x0.107143
+gradient en y 0.3
+scalaire: 0.312372
+108: 122.21, 332.763
+109: avant 116.24, 318.572
+gradient en x-0.0683761
+gradient en y 0.0683761
+scalaire: 0.0966984
+109: 106.571, 328.24
+110: avant 112.048, 318.238
+gradient en x-0.172222
+gradient en y 0.022409
+scalaire: 0.0635099
+110: 111.537, 320.281
+111: avant 106.95, 315.886
+gradient en x0.0481482
+gradient en y -0.00926385
+scalaire: -0.0440768
+111: 108.946, 314.389
+112: avant 104.573, 309.878
+gradient en x-0.00662112
+gradient en y -0.00937183
+scalaire: -0.00194505
+112: 104.42, 310.032
+113: avant 99.7118, 310
+gradient en x-0.00338308
+gradient en y -0.134694
+scalaire: -0.0928508
+113: 103.252, 306.46
+114: avant 98.3376, 303.359
+gradient en x-0.0464936
+gradient en y -0.0301597
+scalaire: 0.0515055
+114: 97.3365, 303.159
+115: avant 101.862, 299.753
+gradient en x-0.0242874
+gradient en y -0.0104762
+scalaire: 0.00699169
+115: 101.312, 300.44
+116: avant 87.5161, 295.366
+gradient en x0.00478732
+gradient en y 0.0233918
+scalaire: 0.0149053
+116: 87.1062, 295.858
+117: avant 90.4434, 288.984
+gradient en x-0.00366142
+gradient en y 0.0177854
+scalaire: -0.00857318
+117: 90.7886, 289.272
+118: avant 98.4612, 281.546
+gradient en x-0.00288079
+gradient en y -0.00670807
+scalaire: 0.00717943
+118: 98.2773, 281.27
+119: avant 102.527, 280
+gradient en x0.00527009
+gradient en y 0.0563326
+scalaire: -0.0356327
+119: 103.75, 280.816
+120: avant 101.552, 275
+gradient en x-0.00312431
+gradient en y -0.00134724
+scalaire: 0.00312431
+120: 101.405, 275
+121: avant 102.161, 269.977
+gradient en x-0.0173886
+gradient en y -0.00130538
+scalaire: 0.00958576
+121: 101.981, 269.653
+122: avant 120.552, 265
+gradient en x0.000603416
+gradient en y -0.00830286
+scalaire: -0.000603416
+122: 117.582, 265
+123: avant 101.182, 259.788
+gradient en x-0.0245312
+gradient en y 0.017767
+scalaire: 0.0280679
+123: 100.573, 260.762
+124: avant 104.252, 255
+gradient en x-0.00238521
+gradient en y 0.176768
+scalaire: 0.00238521
+124: 97.4661, 255
+125: avant 101.877, 250.014
+gradient en x0.00201926
+gradient en y 0.00326213
+scalaire: -0.000663313
+125: 101.804, 250.044
+126: avant 98.6686, 245.296
+gradient en x-0.0154341
+gradient en y -0.0130934
+scalaire: -0.00642486
+126: 98.7821, 245.012
+127: avant 91.5443, 245.685
+gradient en x0.0094335
+gradient en y -0.00321201
+scalaire: -0.00760777
+127: 92.1942, 244.602
+128: avant 88.4439, 239.35
+gradient en x-0.0705128
+gradient en y 0.126984
+scalaire: 0.0904295
+128: 85.1526, 239.898
+129: avant 88.6847, 234.064
+gradient en x-0.0119048
+gradient en y -0.0146853
+scalaire: -nan
+129: -nan, -nan
+130: avant 87.643, 238.894
+gradient en x-0.304762
+gradient en y -0.0961538
+scalaire: -0.133212
+130: 86.4066, 229.003
+131: avant 73.115, 235.793
+gradient en x-0.0167888
+gradient en y 0.0129658
+scalaire: 0.0211978
+131: 72.4756, 236.25
+132: avant 77.7194, 223.534
+gradient en x0.00557461
+gradient en y 0.0102983
+scalaire: -0.00557461
+132: 77.9669, 223.534
+133: avant 73.3467, 221.614
+gradient en x-0.00145513
+gradient en y -0.00706613
+scalaire: -0.00396758
+133: 73.5149, 221.446
+134: avant 68.416, 214.073
+gradient en x-0.000276109
+gradient en y 1.02757e-05
+scalaire: 0.000260177
+134: 68.4227, 214.07
+135: avant 67.8708, 212.052
+gradient en x0.00786387
+gradient en y -0.000286286
+scalaire: -0.00377289
+135: 67.7294, 212.335
+136: avant 62.9554, 210.667
+gradient en x-0.000329381
+gradient en y 0.00746966
+scalaire: 0.00722033
+136: 63.0633, 211.152
+137: avant 49.0365, 216.963
+gradient en x-0.0029822
+gradient en y -0.00561667
+scalaire: -0.000984237
+137: 49.3182, 216.752
+138: avant 57.1466, 202.988
+gradient en x0.0518724
+gradient en y -0.210027
+scalaire: -0.0283616
+138: 58.4012, 203.128
+139: avant 52.3232, 199.458
+gradient en x0.000281885
+gradient en y -0.00315733
+scalaire: -0.00150283
+139: 52.4016, 199.424
+140: avant 50.8122, 187.539
+gradient en x-0.00418301
+gradient en y 0.00484782
+scalaire: 0.00546954
+140: 50.6953, 188.241
+141: avant 40.0141, 196.543
+gradient en x0.022232
+gradient en y 0.00257588
+scalaire: 0.00858437
+141: 40.0263, 196.585
+142: avant 37.1058, 193.49
+gradient en x0.0211886
+gradient en y -0.0143678
+scalaire: -0.0250092
+142: 38.7532, 192.831
+143: avant 35.4924, 187.46
+gradient en x-0.000849673
+gradient en y 0.00157445
+scalaire: 0.000849673
+143: 35.4778, 187.46
+144: avant 36.0268, 180.811
+gradient en x-0.00418834
+gradient en y -0.00247206
+scalaire: 0.0036222
+144: 35.8166, 180.853
+145: avant 32.5749, 176.425
+gradient en x3.68565e-05
+gradient en y 3.08517e-05
+scalaire: -4.24605e-06
+145: 32.5638, 176.436
+146: avant 28.6803, 174.357
+gradient en x0.0180859
+gradient en y 0.00360856
+scalaire: -0.0145628
+146: 29.4044, 173.995
+147: avant 27.6732, 167.995
+gradient en x-0.15
+gradient en y 0.15
+scalaire: 0.205798
+147: 16.9812, 185.815
+148: avant 17.6619, 166.529
+gradient en x-0.0490196
+gradient en y 0
+scalaire: 0
+148: 17.6619, 179.029
+149: avant 23.806, 168.056
+gradient en x-0.107143
+gradient en y -0.107143
+scalaire: 0.146999
+149: 17.04, 156.779
+150: avant 28.1824, 161.044
+gradient en x-0.0277778
+gradient en y -0.357143
+scalaire: 0.0277778
+150: 26.7592, 161.044
+151: avant 23.5, 6.44444
+gradient en x-0.161616
+gradient en y -0.1
+scalaire: 0.161616
+151: 76.5303, 6.44444
+152: avant 29.23, 157.196
+gradient en x0
+gradient en y 0.0666667
+scalaire: -0.00656139
+152: 29.0094, 157.218
+153: avant 40.6529, 188.104
+gradient en x0.00684807
+gradient en y 0.00609296
+scalaire: -0.00862115
+153: 40.9794, 188.234
+154: avant 38.0649, 135.568
+gradient en x-0.233333
+gradient en y 0
+scalaire: 0.231373
+154: 25.9672, 137.146
+155: avant 34.109, 141.708
+gradient en x-0.132353
+gradient en y 0.190476
+scalaire: 0.212734
+155: 37.4224, 125.141
+156: avant 28.4564, 133.206
+gradient en x0.0666667
+gradient en y 0.0666667
+scalaire: -0.01849
+156: 28.5156, 133.167
+157: avant 28.7808, 134.546
+gradient en x-0.246154
+gradient en y -0.0833333
+scalaire: -0.15563
+157: 22.4946, 138.867
+158: avant 50.8859, 164.763
+gradient en x-0.0215332
+gradient en y 0.00739589
+scalaire: 0.00145501
+158: 50.7453, 164.425
+159: avant 53.2051, 124.169
+gradient en x0.321839
+gradient en y -0.213333
+scalaire: -0.303011
+159: 68.3617, 125.432
+160: avant 56.2789, 115.71
+gradient en x-0.132353
+gradient en y 0.166667
+scalaire: -0.145737
+160: 48.2998, 116.375
+161: avant 54.9998, 147.592
+gradient en x-0.010989
+gradient en y -0.282353
+scalaire: -0.207424
+161: -47.6462, 44.9456
+162: avant 51.5547, 120.655
+gradient en x0.282353
+gradient en y -0.145443
+scalaire: -0.0823122
+162: 54.9653, 124.406
+163: avant 76.9835, 126.507
+gradient en x-0.00424193
+gradient en y 0.028028
+scalaire: -0.028344
+163: 76.758, 127.861
+164: avant 76.1604, 125.348
+gradient en x0.0122094
+gradient en y 0.00485175
+scalaire: -0.00359857
+164: 76.2632, 125.214
+165: avant 49.6619, 106.937
+gradient en x-0.347368
+gradient en y 0.0307018
+scalaire: 0.145686
+165: 55.7257, 117.549
+166: avant 89.6966, 116.853
+gradient en x-0.0090909
+gradient en y 0.0231678
+scalaire: -0.0243472
+166: 89.5299, 117.853
+167: avant 87.3547, 114.264
+gradient en x-0.102722
+gradient en y 0.161616
+scalaire: -0.0416447
+167: 91.4587, 118.368
+168: avant 94.0134, 113.147
+gradient en x0.00555556
+gradient en y 0.022409
+scalaire: -0.0199308
+168: 93.7071, 114.189
+169: avant 122.161, 123.689
+gradient en x-0.157233
+gradient en y -0.0434186
+scalaire: 0.151837
+169: 100.46, 107.414
+170: avant 99.8285, 103.627
+gradient en x-0.00227072
+gradient en y 0.00469153
+scalaire: 0.00492305
+170: 99.6645, 103.791
+171: avant 106.659, 109.528
+gradient en x0
+gradient en y -0.0310345
+scalaire: 0.0310345
+171: 106.659, 107.111
+172: avant 121.522, 104.606
+gradient en x-0.0586081
+gradient en y 0.35
+scalaire: 0.126111
+172: 103.208, 108.268
+173: avant 104.477, 98.6681
+gradient en x-0.0307018
+gradient en y -0.020185
+scalaire: -0.036742
+173: 104.73, 98.837
+174: avant 109.429, 124.429
+gradient en x-0.189964
+gradient en y 0.200946
+scalaire: -0.181046
+174: 109.616, 126.308
+175: avant 124.544, 97.2424
+gradient en x0.15
+gradient en y 0.233333
+scalaire: -0.247595
+175: 135.226, 103.526
+176: avant 130.039, 89.0742
+gradient en x0.0793651
+gradient en y 0
+scalaire: -nan
+176: -nan, -nan
+177: avant 125.728, 96.4872
+gradient en x0.0666667
+gradient en y 0.15
+scalaire: -0.153206
+177: 127.672, 98.4316
+178: avant 136.959, 82.7842
+gradient en x0.347368
+gradient en y -0.104575
+scalaire: -0.347368
+178: 147.036, 82.7842
+179: avant 126.501, 78.9066
+gradient en x-0.333333
+gradient en y -0.0252101
+scalaire: -0.317266
+179: 136.024, 76.5257
+180: avant 139.481, 91.0136
+gradient en x-0.316667
+gradient en y 0.0090909
+scalaire: 0.0119936
+180: 139.353, 89.0885
+181: avant 156.714, 77.2381
+gradient en x0.0277778
+gradient en y -0.177778
+scalaire: 0.0807275
+181: 147.805, 70.8745
+182: avant 150.456, 76.1172
+gradient en x-0.107143
+gradient en y -0.111111
+scalaire: 0.0461411
+182: 156.106, 73.2918
+183: avant 153.365, 67.9946
+gradient en x0.15
+gradient en y 0.0047619
+scalaire: -0.15
+183: 149.754, 67.9946
+Over
+New polygon with 184 points.
+Drawing polygon with 184
+Point size: 184
+0: avant 147.313, 65.2246
+gradient en x0
+gradient en y -0.1
+scalaire: 0.0789352
+0: 146.837, 64.6122
+1: avant 168.675, 53.4707
+gradient en x0.161616
+gradient en y -0.0219436
+scalaire: 0.044579
+1: 167.779, 59.7442
+2: avant 160.54, 66.633
+gradient en x0.122222
+gradient en y -0.0683761
+scalaire: 0.139458
+2: 170.41, 62.2463
+3: avant 177.143, 71.2539
+gradient en x0.177778
+gradient en y 0.0683761
+scalaire: -0.0683761
+3: 177.143, 73.6139
+4: avant 182.14, 65.6391
+gradient en x0
+gradient en y -0.0238095
+scalaire: -nan
+4: -nan, -nan
+5: avant 177.064, 72.3968
+gradient en x0.104575
+gradient en y 0.246154
+scalaire: -0.100111
+5: 178.014, 71.4465
+6: avant 196.043, 79.5429
+gradient en x0.0595238
+gradient en y -0.0277778
+scalaire: 0.0529202
+6: 185.694, 77.4731
+7: avant 173.598, 83.3558
+gradient en x0.0476191
+gradient en y 0.0761905
+scalaire: 0.0616365
+7: 210.973, 90.8306
+8: avant 193.301, 90.4044
+gradient en x-0.00181477
+gradient en y -0.00614666
+scalaire: 0.00598937
+8: 193.326, 90.0757
+9: avant 199.997, 86.3234
+gradient en x-0.00159587
+gradient en y -0.0113022
+scalaire: 0.0114108
+9: 199.912, 85.8149
+10: avant 205.185, 87.6303
+gradient en x-0.00783883
+gradient en y -0.00233623
+scalaire: -0.00141604
+10: 205.13, 87.7398
+11: avant 208.55, 90.9003
+gradient en x-0.0234488
+gradient en y -0.00103419
+scalaire: -0.00956161
+11: 208.361, 91.2789
+12: avant 213.775, 92.3522
+gradient en x-0.00210084
+gradient en y -3.23877e-05
+scalaire: 0.000608287
+12: 213.751, 92.269
+13: avant 224.488, 86.4757
+gradient en x0.00200208
+gradient en y -0.00393636
+scalaire: 0.00393636
+13: 224.488, 86.4142
+14: avant 230.922, 90.6197
+gradient en x0.0692641
+gradient en y -0.0137812
+scalaire: 0.0664838
+14: 233.256, 89.2194
+15: avant 230.363, 96.7671
+gradient en x-0.0555556
+gradient en y -0.127872
+scalaire: -0.0555556
+15: 227.767, 96.7671
+16: avant 230.577, 104.512
+gradient en x0.0511628
+gradient en y -0.0332512
+scalaire: 0.0446672
+16: 232.623, 96.3321
+17: avant 239.042, 98.7785
+gradient en x-0.0060401
+gradient en y -0.0025296
+scalaire: 0.0025296
+17: 239.042, 98.8049
+18: avant 242.36, 105.781
+gradient en x0.011005
+gradient en y 0.0341131
+scalaire: 0.00607012
+18: 242.439, 105.77
+19: avant 242.048, 113.467
+gradient en x-0.39591
+gradient en y -0.0915951
+scalaire: 0.184883
+19: 239.604, 103.693
+20: avant 251.093, 103.871
+gradient en x-0.00866091
+gradient en y 0.00132275
+scalaire: -0.00338384
+20: 250.803, 105.032
+21: avant 250.193, 115.77
+gradient en x0.0486815
+gradient en y 0.0054561
+scalaire: 0.0436662
+21: 252.893, 114.758
+22: avant 257.947, 119.894
+gradient en x-0.159091
+gradient en y -0.0844961
+scalaire: 0.0298511
+22: 258.455, 118.369
+23: avant 261.689, 120.56
+gradient en x0.001573
+gradient en y -0.00700115
+scalaire: 0.00436211
+23: 261.875, 120.474
+24: avant 270.672, 146.507
+gradient en x-0.0542443
+gradient en y 0.0147017
+scalaire: -0.0147017
+24: 270.672, 143.955
+25: avant 272.786, 120.024
+gradient en x9.90321e-05
+gradient en y -0.0062953
+scalaire: 0.00238882
+25: 272.709, 119.991
+26: avant 284.15, 118.85
+gradient en x0.0108037
+gradient en y -0.0160401
+scalaire: -0.0108805
+26: 283.863, 118.131
+27: avant 263.439, 124.315
+gradient en x0.257143
+gradient en y 0.023511
+scalaire: 0.257509
+27: 279.986, 127.073
+28: avant 280.914, 132.017
+gradient en x-0.00234465
+gradient en y -0.00875564
+scalaire: 0.00598456
+28: 281.066, 131.79
+29: avant 281.087, 137.183
+gradient en x-0.00442948
+gradient en y 0.0249614
+scalaire: -0.00923878
+29: 280.655, 137.269
+30: avant 282.802, 142
+gradient en x-0.000778087
+gradient en y -0.000874572
+scalaire: -0.00059146
+30: 282.716, 142.017
+31: avant 282.745, 147
+gradient en x-0.000174913
+gradient en y -0.000319432
+scalaire: -0.000174913
+31: 282.732, 147
+32: avant 282.299, 151.987
+gradient en x-0.00415182
+gradient en y -0.000160458
+scalaire: -0.00282232
+32: 282.212, 152.073
+33: avant 291.582, 155.712
+gradient en x-0.00125673
+gradient en y -0.00314094
+scalaire: -3.23878e-07
+33: 291.51, 155.741
+34: avant 285.712, 162.057
+gradient en x-0.000989686
+gradient en y 0.014464
+scalaire: 0.00140165
+34: 285.823, 162.076
+35: avant 290.423, 169.194
+gradient en x0.153257
+gradient en y 0.00547779
+scalaire: 0.153257
+35: 290.394, 169.194
+36: avant 286.375, 171.034
+gradient en x0.00130826
+gradient en y -0.0087452
+scalaire: 0.00130826
+36: 286.488, 171.034
+37: avant 290.339, 183.393
+gradient en x-0.0166667
+gradient en y -0.0332512
+scalaire: -0.0278238
+37: 287.153, 182.119
+38: avant 282.49, 181.833
+gradient en x0.0314644
+gradient en y 0.000830823
+scalaire: 0.0314644
+38: 284.542, 181.833
+39: avant 289.938, 187.012
+gradient en x0.000400409
+gradient en y -0.000377066
+scalaire: 0.000548218
+39: 289.932, 187.018
+40: avant 291.071, 191.978
+gradient en x-0.00303607
+gradient en y 0.00620116
+scalaire: -0.00144142
+40: 290.898, 191.935
+41: avant 286.556, 196.361
+gradient en x-0.0473684
+gradient en y -0.061828
+scalaire: -0.0473684
+41: 285.46, 196.361
+42: avant 289.741, 201.583
+gradient en x0.0319219
+gradient en y 0.0591616
+scalaire: -0.0192614
+42: 289.148, 202.176
+43: avant 294.786, 205.472
+gradient en x0.0098345
+gradient en y 0.00439264
+scalaire: 0.0068318
+43: 295.06, 205.335
+44: avant 293.644, 211.013
+gradient en x-0.00463822
+gradient en y 0.0395538
+scalaire: -0.0123053
+44: 293.391, 211.064
+45: avant 296.909, 215.24
+gradient en x0.000677729
+gradient en y -0.0094335
+scalaire: 0.00413277
+45: 297.037, 215.188
+46: avant 297.572, 220.754
+gradient en x-0.03698
+gradient en y 0.0257376
+scalaire: -0.03698
+46: 295.41, 220.754
+47: avant 297.233, 230.599
+gradient en x-0.00243332
+gradient en y -0.25
+scalaire: -0.178497
+47: 290.87, 224.236
+48: avant 283.533, 236.334
+gradient en x-0.000380797
+gradient en y 0.00109232
+scalaire: -0.000829098
+48: 283.775, 236.213
+49: avant 298.72, 236.043
+gradient en x0.0195479
+gradient en y 0.0559441
+scalaire: -0.0468916
+49: 297.907, 238.483
+50: avant 296.247, 241
+gradient en x-0.0591195
+gradient en y -0.0169373
+scalaire: -0.0591195
+50: 293.709, 241
+51: avant 299.986, 245.902
+gradient en x0.00164349
+gradient en y 0.0019856
+scalaire: 0.000581989
+51: 299.973, 245.909
+52: avant 301.407, 250.491
+gradient en x0.000740957
+gradient en y 0.00767746
+scalaire: 0.000740957
+52: 301.428, 250.491
+53: avant 299.935, 256.213
+gradient en x-0.00181488
+gradient en y -0.0238965
+scalaire: 0.00290684
+53: 300.343, 256.131
+54: avant 303.26, 260.816
+gradient en x0.0676259
+gradient en y 0.093001
+scalaire: 0.0480737
+54: 305.548, 260.358
+55: avant 303.476, 265.766
+gradient en x-0.00140181
+gradient en y -0.00335493
+scalaire: 0.000524059
+55: 303.552, 265.72
+56: avant 308.987, 270.856
+gradient en x0.0884354
+gradient en y -0.016412
+scalaire: 0.0899367
+56: 312.325, 270.189
+57: avant 305.203, 276.175
+gradient en x-0.0145806
+gradient en y -0.0469113
+scalaire: -0.0255229
+57: 304.199, 275.924
+58: avant 305.664, 279.773
+gradient en x0.00408967
+gradient en y 0.00194012
+scalaire: 0.000440474
+58: 305.693, 279.724
+59: avant 316.399, 282.903
+gradient en x0.000157312
+gradient en y -0.00186884
+scalaire: 0.0010964
+59: 316.43, 282.884
+60: avant 311.932, 290.049
+gradient en x0.00819209
+gradient en y 0.0126179
+scalaire: 0.00989419
+60: 313.056, 290.21
+61: avant 314.334, 298.077
+gradient en x0.000899279
+gradient en y 0.00400079
+scalaire: 0.00166644
+61: 314.008, 298.012
+62: avant 308.853, 299.671
+gradient en x0.00263674
+gradient en y 0.149004
+scalaire: 0.107226
+62: 312.717, 303.536
+63: avant 305.763, 306.545
+gradient en x0
+gradient en y -0.0951751
+scalaire: -0.0134598
+63: 305.773, 306.547
+64: avant 307.426, 315.026
+gradient en x0.151163
+gradient en y -0.389189
+scalaire: -0.389189
+64: 307.426, 294.709
+65: avant 290.232, 306.147
+gradient en x-0.057041
+gradient en y 0.0555556
+scalaire: -0.0323284
+65: 302.93, 311.226
+66: avant 301.808, 325.636
+gradient en x-0.362963
+gradient en y 0.134409
+scalaire: -0.282541
+66: 307.069, 315.113
+67: avant 294.734, 309.291
+gradient en x-0.431034
+gradient en y -0.131313
+scalaire: 0.0550642
+67: 291.254, 317.121
+68: avant 284.26, 318.053
+gradient en x-0.257143
+gradient en y -0.333333
+scalaire: -0.372029
+68: 269, 311.117
+69: avant 284.42, 331.56
+gradient en x0.014581
+gradient en y -0.00142583
+scalaire: 0.0130086
+69: 284.944, 331.77
+70: avant 279.473, 328.494
+gradient en x-0.00482
+gradient en y 0.00262186
+scalaire: 0.00262186
+70: 279.473, 328.705
+71: avant 274.569, 330.656
+gradient en x0
+gradient en y 0
+scalaire: 0
+71: 274.714, 330.638
+72: avant 274.393, 295.036
+gradient en x-0.0411111
+gradient en y -0.0502421
+scalaire: -0.0502421
+72: 274.393, 302.662
+73: avant 271.08, 332.17
+gradient en x0.433333
+gradient en y 0.0833333
+scalaire: 0.428976
+73: 286.684, 339.263
+74: avant 263.938, 317.31
+gradient en x-0.000975297
+gradient en y 0.000278257
+scalaire: -0.000309474
+74: 263.936, 317.307
+75: avant 253.194, 343.811
+gradient en x0.0738916
+gradient en y -0.135897
+scalaire: 0.00732262
+75: 253.509, 343.963
+76: avant 233.712, 379.597
+gradient en x0.0330688
+gradient en y -0.00468919
+scalaire: 0.0105947
+76: 225.002, 362.178
+77: avant 249.481, 346.743
+gradient en x-0.215686
+gradient en y 0.0343137
+scalaire: 0.180941
+77: 241.311, 342.93
+78: avant 247.66, 350.084
+gradient en x-0.0311111
+gradient en y 0.0104895
+scalaire: -0.0200675
+78: 246.115, 349.054
+79: avant 243.617, 353.336
+gradient en x-0.00286407
+gradient en y 0.00471907
+scalaire: 0.00131169
+79: 243.686, 353.405
+80: avant 239.184, 358.648
+gradient en x-0.0111643
+gradient en y 0.00999806
+scalaire: -0.000824641
+80: 238.716, 358.181
+81: avant 236.953, 358.628
+gradient en x0.0312701
+gradient en y 0.0328283
+scalaire: 0.0328283
+81: 236.953, 360.574
+82: avant 230.025, 360.162
+gradient en x0.0119048
+gradient en y 0.00133761
+scalaire: 0.00327654
+82: 230.054, 360.339
+83: avant 224.478, 360.777
+gradient en x-0.0684372
+gradient en y -0.0316206
+scalaire: -0.062325
+83: 223.727, 359.526
+84: avant 219.051, 365.682
+gradient en x0.198693
+gradient en y -0.0510367
+scalaire: -0.00132277
+84: 218.585, 363.819
+85: avant 215.663, 364.046
+gradient en x0.0316865
+gradient en y 0.0470588
+scalaire: 0.0556813
+85: 219.854, 368.237
+86: avant 216.298, 369.358
+gradient en x0.0148011
+gradient en y 0.0158371
+scalaire: 0.0216129
+86: 216.797, 369.981
+87: avant 206, 373.362
+gradient en x-0.0025641
+gradient en y 0.0104499
+scalaire: 0.0107293
+87: 205.959, 373.61
+88: avant 202.819, 367.403
+gradient en x0.0674603
+gradient en y -0.00168862
+scalaire: -0.0127561
+88: 201.933, 372.715
+89: avant 193.133, 370.463
+gradient en x0.169591
+gradient en y 0.0328283
+scalaire: 0.0328283
+89: 193.133, 370.484
+90: avant 190.417, 366.162
+gradient en x0.0038511
+gradient en y -0.0738916
+scalaire: -0.0636178
+90: 185.554, 373.456
+91: avant 186.193, 366.048
+gradient en x0.110599
+gradient en y 0.0433245
+scalaire: 0.0433245
+91: 186.193, 368.214
+92: avant 181, 365.504
+gradient en x0.205556
+gradient en y 0.0281492
+scalaire: 0.0281492
+92: 181, 366.911
+93: avant 176.822, 365.748
+gradient en x-0.00745551
+gradient en y 0.0065136
+scalaire: -0.00228085
+93: 177.267, 366.066
+94: avant 171, 381.088
+gradient en x-0.0761905
+gradient en y 0.0424242
+scalaire: 0.086927
+94: 205.253, 358.252
+95: avant 173.173, 360.453
+gradient en x-0.00580524
+gradient en y 0.00269014
+scalaire: 0.00639747
+95: 172.605, 360.706
+96: avant 161.997, 362.998
+gradient en x-0.0338551
+gradient en y -0.131558
+scalaire: -0.134274
+96: 161.316, 356.187
+97: avant 153.328, 362.252
+gradient en x-0.0692641
+gradient en y -0.0822511
+scalaire: 0.0493131
+97: 150.938, 362.795
+98: avant 111.135, 141.835
+gradient en x0.0411373
+gradient en y -0.148426
+scalaire: -0.143423
+98: 98.5702, 158.587
+99: avant 144.032, 355.539
+gradient en x0
+gradient en y -0.107143
+scalaire: 0.0221741
+99: 145.203, 355.292
+100: avant 155.629, 350.251
+gradient en x0.20122
+gradient en y -0.0238095
+scalaire: -0.183253
+100: 155.083, 350.592
+101: avant 133.506, 338.556
+gradient en x0.0415584
+gradient en y -0.0367075
+scalaire: -0.0178998
+101: 133.344, 338.167
+102: avant 131.836, 359.898
+gradient en x0.0226345
+gradient en y 0.0217602
+scalaire: -0.0299764
+102: 132.132, 360.046
+103: avant 138.139, 330.183
+gradient en x0.0128205
+gradient en y -0.108392
+scalaire: 0.00263723
+103: 137.744, 330.127
+104: avant 136.648, 331.684
+gradient en x-0.0473684
+gradient en y 0.022409
+scalaire: 0.0513891
+104: 135.621, 331.941
+105: avant 135.223, 321.356
+gradient en x-0.35122
+gradient en y -0.0666667
+scalaire: 0.0205071
+105: 134.274, 325.152
+106: avant 127.674, 330.425
+gradient en x-0.0319285
+gradient en y -0.0319285
+scalaire: -0.0177869
+106: 130.022, 324.556
+107: avant 124.991, 315.861
+gradient en x0.00978615
+gradient en y 0.00656566
+scalaire: 0.00932338
+107: 162.338, 427.903
+108: avant 122.21, 332.763
+gradient en x0.0238095
+gradient en y 0.166667
+scalaire: 0.151882
+108: 123.793, 335.137
+109: avant 106.571, 328.24
+gradient en x0.0255183
+gradient en y -0.00396825
+scalaire: -0.0221441
+109: 108.39, 326.725
+110: avant 111.537, 320.281
+gradient en x0.154762
+gradient en y -0.0319285
+scalaire: -0.148691
+110: 118.159, 321.227
+111: avant 108.946, 314.389
+gradient en x0.0508973
+gradient en y 0.0239433
+scalaire: -0.0247869
+111: 109.857, 313.66
+112: avant 104.42, 310.032
+gradient en x0.004269
+gradient en y 0.0197802
+scalaire: 0.00845293
+112: 104.2, 310.197
+113: avant 103.252, 306.46
+gradient en x0.0621162
+gradient en y 0.0531711
+scalaire: -0.00632513
+113: 103.191, 306.521
+114: avant 97.3365, 303.159
+gradient en x0.0100471
+gradient en y 0.0391007
+scalaire: 0.00283321
+114: 101.939, 301.624
+115: avant 101.312, 300.44
+gradient en x-0.0118899
+gradient en y -0.0250549
+scalaire: -0.0153671
+115: 101.497, 300.132
+116: avant 87.1062, 295.858
+gradient en x0.00478732
+gradient en y 0.0233918
+scalaire: 0.0131554
+116: 86.7631, 296.201
+117: avant 90.7886, 289.272
+gradient en x0.0200762
+gradient en y 0.0387302
+scalaire: -0.0388481
+117: 92.3801, 290.409
+118: avant 98.2773, 281.27
+gradient en x-0.00288079
+gradient en y -0.00670807
+scalaire: 0.00717943
+118: 98.1154, 281.027
+119: avant 103.75, 280.816
+gradient en x0.196248
+gradient en y 0.0229065
+scalaire: -0.193421
+119: 106.925, 281.874
+120: avant 101.405, 275
+gradient en x-0.00312431
+gradient en y -0.00134724
+scalaire: 0.00279942
+120: 101.301, 275.021
+121: avant 101.981, 269.653
+gradient en x-0.0207889
+gradient en y 0.0031631
+scalaire: 0.0083358
+121: 101.806, 269.373
+122: avant 117.582, 265
+gradient en x0.00214072
+gradient en y -0.00885424
+scalaire: -0.00214072
+122: 111.036, 265
+123: avant 100.573, 260.762
+gradient en x0.000709674
+gradient en y -0.00104016
+scalaire: -0.00124773
+123: 100.613, 260.682
+124: avant 97.4661, 255
+gradient en x0.00437876
+gradient en y 0.0305816
+scalaire: -0.00437876
+124: 97.8375, 255
+125: avant 101.804, 250.044
+gradient en x0.00201926
+gradient en y 0.00326213
+scalaire: -0.0026198
+125: 100.894, 249.862
+126: avant 98.7821, 245.012
+gradient en x-0.0154341
+gradient en y -0.0130934
+scalaire: -0.00642486
+126: 98.8965, 244.726
+127: avant 92.1942, 244.602
+gradient en x0.0029785
+gradient en y 0.0333126
+scalaire: 0.0312126
+127: 91.7734, 246.075
+128: avant 85.1526, 239.898
+gradient en x0.00229885
+gradient en y 0.206349
+scalaire: -0.144285
+128: 80.0514, 244.999
+129: avant -nan, -nan
