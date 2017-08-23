@@ -28,9 +28,9 @@ void onMouse1(int event,int x,int y,int foo,void* p)
 int main()
 {
 	// Mat A=imread("../segmentation.png");
-	Mat A = imread("test-images/pieuvre.jpg");
+	//Mat A = imread("test-images/pieuvre.jpg");
 	// Mat A = imread("test-images/eiffel.jpg");
-	// Mat A = imread("test-images/starfish.jpg");
+	Mat A = imread("test-images/starfish.jpg");
     namedWindow(WIN_NAME);
     imshow(WIN_NAME,A);
     Data *D = new Data(A);
