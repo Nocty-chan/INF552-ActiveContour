@@ -1,3 +1,0 @@
-/home/laetitia/workspace/3A/INF552/TP4/CMakeFiles/rebuild_cache.dir
-/home/laetitia/workspace/3A/INF552/TP4/CMakeFiles/edit_cache.dir
-/home/laetitia/workspace/3A/INF552/TP4/CMakeFiles/images.dir

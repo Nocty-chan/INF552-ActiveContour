@@ -16,3 +16,5 @@ Select the window named `images`.
 * Keep pressing until the polygon is stabilized.
 
 ## Demo ##
+
+![Video demo](https://github.com/Nocty-chan/INF552-ActiveContour/blob/master/test-images/video-12.gif?raw=true)
