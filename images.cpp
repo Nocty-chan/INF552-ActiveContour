@@ -26,11 +26,11 @@ void onMouse1(int event,int x,int y,int foo,void* p)
 }
 
 int main()
-{   
-	//Mat A=imread("../segmentation.png");
-	//Mat A = imread("../pieuvre.jpg");
-	//Mat A = imread("../eiffel.jpg");
-	Mat A = imread("../starfish.jpg");
+{
+	// Mat A=imread("../segmentation.png");
+	Mat A = imread("test-images/pieuvre.jpg");
+	// Mat A = imread("test-images/eiffel.jpg");
+	// Mat A = imread("test-images/starfish.jpg");
     namedWindow(WIN_NAME);
     imshow(WIN_NAME,A);
     Data *D = new Data(A);
@@ -45,7 +45,7 @@ int main()
     cout <<  "Polygon definition is over" << endl;
     setMouseCallback(WIN_NAME, NULL, NULL);
     Mat Imcloned;
-    //force ballon: 
+    //force ballon:
     while (true) {
    	cout << "Gradient descent ...";
  	  	D->drawNextStep(STEP, D->image.clone(), mode);

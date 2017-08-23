@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/laetitia/3A/INF552/TP4/data.cpp" "/home/laetitia/3A/INF552/TP4/build/CMakeFiles/images.dir/data.cpp.o"
-  "/home/laetitia/3A/INF552/TP4/images.cpp" "/home/laetitia/3A/INF552/TP4/build/CMakeFiles/images.dir/images.cpp.o"
-  "/home/laetitia/3A/INF552/TP4/polygon.cpp" "/home/laetitia/3A/INF552/TP4/build/CMakeFiles/images.dir/polygon.cpp.o"
+  "/home/laetitia/workspace/3A/INF552/TP4/data.cpp" "/home/laetitia/workspace/3A/INF552/TP4/CMakeFiles/images.dir/data.cpp.o"
+  "/home/laetitia/workspace/3A/INF552/TP4/images.cpp" "/home/laetitia/workspace/3A/INF552/TP4/CMakeFiles/images.dir/images.cpp.o"
+  "/home/laetitia/workspace/3A/INF552/TP4/polygon.cpp" "/home/laetitia/workspace/3A/INF552/TP4/CMakeFiles/images.dir/polygon.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

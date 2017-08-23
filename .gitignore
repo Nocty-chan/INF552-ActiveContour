@@ -1,1 +1,8 @@
-*.jpg
+images
+
+*.o
+
+Makefile
+CMakeCache.txt
+CmakeFiles/
+cmake_install.cmake

@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/laetitia/3A/INF552/TP4/data.cpp
+/home/laetitia/workspace/3A/INF552/TP4/data.cpp
 data.h
-/home/laetitia/3A/INF552/TP4/data.h
+/home/laetitia/workspace/3A/INF552/TP4/data.h
 opencv2/highgui/highgui.hpp
 -
 opencv2/imgproc/imgproc.hpp
@@ -16,15 +16,15 @@ opencv2/imgproc/imgproc.hpp
 iostream
 -
 polygon.h
-/home/laetitia/3A/INF552/TP4/polygon.h
+/home/laetitia/workspace/3A/INF552/TP4/polygon.h
 
-/home/laetitia/3A/INF552/TP4/data.h
+/home/laetitia/workspace/3A/INF552/TP4/data.h
 opencv2/highgui/highgui.hpp
 -
 polygon.h
-/home/laetitia/3A/INF552/TP4/polygon.h
+/home/laetitia/workspace/3A/INF552/TP4/polygon.h
 
-/home/laetitia/3A/INF552/TP4/images.cpp
+/home/laetitia/workspace/3A/INF552/TP4/images.cpp
 opencv2/highgui/highgui.hpp
 -
 opencv2/imgproc/imgproc.hpp
@@ -32,11 +32,11 @@ opencv2/imgproc/imgproc.hpp
 iostream
 -
 polygon.h
-/home/laetitia/3A/INF552/TP4/polygon.h
+/home/laetitia/workspace/3A/INF552/TP4/polygon.h
 data.h
-/home/laetitia/3A/INF552/TP4/data.h
+/home/laetitia/workspace/3A/INF552/TP4/data.h
 
-/home/laetitia/3A/INF552/TP4/polygon.cpp
+/home/laetitia/workspace/3A/INF552/TP4/polygon.cpp
 opencv2/highgui/highgui.hpp
 -
 opencv2/imgproc/imgproc.hpp
@@ -46,11 +46,11 @@ iostream
 math.h
 -
 polygon.h
-/home/laetitia/3A/INF552/TP4/polygon.h
+/home/laetitia/workspace/3A/INF552/TP4/polygon.h
 vector
 -
 
-/home/laetitia/3A/INF552/TP4/polygon.h
+/home/laetitia/workspace/3A/INF552/TP4/polygon.h
 opencv2/highgui/highgui.hpp
 -
 vector

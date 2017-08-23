@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/laetitia/3A/INF552/TP4
+CMAKE_SOURCE_DIR = /home/laetitia/workspace/3A/INF552/TP4
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/laetitia/3A/INF552/TP4/build
+CMAKE_BINARY_DIR = /home/laetitia/workspace/3A/INF552/TP4
 
 # Include any dependencies generated for this target.
 include CMakeFiles/images.dir/depend.make
@@ -58,17 +58,17 @@ include CMakeFiles/images.dir/progress.make
 include CMakeFiles/images.dir/flags.make
 
 CMakeFiles/images.dir/images.cpp.o: CMakeFiles/images.dir/flags.make
-CMakeFiles/images.dir/images.cpp.o: ../images.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laetitia/3A/INF552/TP4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/images.dir/images.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/images.dir/images.cpp.o -c /home/laetitia/3A/INF552/TP4/images.cpp
+CMakeFiles/images.dir/images.cpp.o: images.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laetitia/workspace/3A/INF552/TP4/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/images.dir/images.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/images.dir/images.cpp.o -c /home/laetitia/workspace/3A/INF552/TP4/images.cpp
 
 CMakeFiles/images.dir/images.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/images.dir/images.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/laetitia/3A/INF552/TP4/images.cpp > CMakeFiles/images.dir/images.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/laetitia/workspace/3A/INF552/TP4/images.cpp > CMakeFiles/images.dir/images.cpp.i
 
 CMakeFiles/images.dir/images.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/images.dir/images.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/laetitia/3A/INF552/TP4/images.cpp -o CMakeFiles/images.dir/images.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/laetitia/workspace/3A/INF552/TP4/images.cpp -o CMakeFiles/images.dir/images.cpp.s
 
 CMakeFiles/images.dir/images.cpp.o.requires:
 
@@ -82,17 +82,17 @@ CMakeFiles/images.dir/images.cpp.o.provides.build: CMakeFiles/images.dir/images.
 
 
 CMakeFiles/images.dir/polygon.cpp.o: CMakeFiles/images.dir/flags.make
-CMakeFiles/images.dir/polygon.cpp.o: ../polygon.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laetitia/3A/INF552/TP4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/images.dir/polygon.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/images.dir/polygon.cpp.o -c /home/laetitia/3A/INF552/TP4/polygon.cpp
+CMakeFiles/images.dir/polygon.cpp.o: polygon.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laetitia/workspace/3A/INF552/TP4/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/images.dir/polygon.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/images.dir/polygon.cpp.o -c /home/laetitia/workspace/3A/INF552/TP4/polygon.cpp
 
 CMakeFiles/images.dir/polygon.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/images.dir/polygon.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/laetitia/3A/INF552/TP4/polygon.cpp > CMakeFiles/images.dir/polygon.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/laetitia/workspace/3A/INF552/TP4/polygon.cpp > CMakeFiles/images.dir/polygon.cpp.i
 
 CMakeFiles/images.dir/polygon.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/images.dir/polygon.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/laetitia/3A/INF552/TP4/polygon.cpp -o CMakeFiles/images.dir/polygon.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/laetitia/workspace/3A/INF552/TP4/polygon.cpp -o CMakeFiles/images.dir/polygon.cpp.s
 
 CMakeFiles/images.dir/polygon.cpp.o.requires:
 
@@ -106,17 +106,17 @@ CMakeFiles/images.dir/polygon.cpp.o.provides.build: CMakeFiles/images.dir/polygo
 
 
 CMakeFiles/images.dir/data.cpp.o: CMakeFiles/images.dir/flags.make
-CMakeFiles/images.dir/data.cpp.o: ../data.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laetitia/3A/INF552/TP4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/images.dir/data.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/images.dir/data.cpp.o -c /home/laetitia/3A/INF552/TP4/data.cpp
+CMakeFiles/images.dir/data.cpp.o: data.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/laetitia/workspace/3A/INF552/TP4/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/images.dir/data.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/images.dir/data.cpp.o -c /home/laetitia/workspace/3A/INF552/TP4/data.cpp
 
 CMakeFiles/images.dir/data.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/images.dir/data.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/laetitia/3A/INF552/TP4/data.cpp > CMakeFiles/images.dir/data.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/laetitia/workspace/3A/INF552/TP4/data.cpp > CMakeFiles/images.dir/data.cpp.i
 
 CMakeFiles/images.dir/data.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/images.dir/data.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/laetitia/3A/INF552/TP4/data.cpp -o CMakeFiles/images.dir/data.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/laetitia/workspace/3A/INF552/TP4/data.cpp -o CMakeFiles/images.dir/data.cpp.s
 
 CMakeFiles/images.dir/data.cpp.o.requires:
 
@@ -168,7 +168,7 @@ images: /usr/local/lib/libopencv_video.so.3.1.0
 images: /usr/local/lib/libopencv_imgproc.so.3.1.0
 images: /usr/local/lib/libopencv_core.so.3.1.0
 images: CMakeFiles/images.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/laetitia/3A/INF552/TP4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable images"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/laetitia/workspace/3A/INF552/TP4/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable images"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/images.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -187,6 +187,6 @@ CMakeFiles/images.dir/clean:
 .PHONY : CMakeFiles/images.dir/clean
 
 CMakeFiles/images.dir/depend:
-	cd /home/laetitia/3A/INF552/TP4/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/laetitia/3A/INF552/TP4 /home/laetitia/3A/INF552/TP4 /home/laetitia/3A/INF552/TP4/build /home/laetitia/3A/INF552/TP4/build /home/laetitia/3A/INF552/TP4/build/CMakeFiles/images.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/laetitia/workspace/3A/INF552/TP4 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/laetitia/workspace/3A/INF552/TP4 /home/laetitia/workspace/3A/INF552/TP4 /home/laetitia/workspace/3A/INF552/TP4 /home/laetitia/workspace/3A/INF552/TP4 /home/laetitia/workspace/3A/INF552/TP4/CMakeFiles/images.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/images.dir/depend
 
